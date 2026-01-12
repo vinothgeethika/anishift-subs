@@ -1,992 +1,771 @@
 1
-00:00:46,719 --> 00:00:47,889
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah.</font>
+00:01:22,637 --> 00:01:25,067
+හොඳයි! මම සුබසේ ඉන්නවා.
 
 2
-00:00:47,889 --> 00:00:49,769
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Do you have your handkerchief? Your ticket?</font>
+00:01:27,567 --> 00:01:28,907
+ආයුබෝවන්!
 
 3
-00:00:49,769 --> 00:00:51,889
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">A nice pair of shoes?</font>
+00:02:14,017 --> 00:02:15,957
+ගිම්හාන දිනයක,
 
 4
-00:01:03,209 --> 00:01:06,679
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Jeez. I've been going there every year, so I'll be all right.</font>
+00:02:15,957 --> 00:02:19,267
+මම කඳු දෙවියන්ගේ වනයේ තැන් ගොඩ විය.
 
 5
-00:01:10,159 --> 00:01:12,589
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's alright! I'm fine.</font>
+00:02:19,827 --> 00:02:21,997
+යක්ෂයන් ජීවත් වන තැන කියලා කිව්ව.
 
 6
-00:01:44,659 --> 00:01:46,749
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>The first time I met him</i></font>
+00:02:24,867 --> 00:02:27,557
+පිටවීමට සොයා දුවගෙන ගිය,
 
 7
-00:01:48,999 --> 00:01:51,089
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>was when I was six.</i></font>
+00:02:27,557 --> 00:02:29,627
+මම හින්දා යා නොහැකි තරමට හත්පස.
 
 8
-00:01:52,089 --> 00:02:00,429
-<font face="Constantia" size="110" color="#e4f0fb">{\an8}To the Forest of Firefly Lights</font>
+00:02:30,567 --> 00:02:35,147
+බිය හා එකට හිටියාට අඬන්න,
 
 9
-00:02:01,539 --> 00:02:03,479
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>On a hot summer day,</i></font>
+00:02:35,987 --> 00:02:38,447
+ඔහු මට ඉදිරියේ පෙන්න.
 
 10
-00:02:03,479 --> 00:02:06,789
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>I got lost in the forest of the mountain god,</i></font>
+00:03:02,557 --> 00:03:04,537
+අඬන්නේ ඇයි?
 
 11
-00:02:23,509 --> 00:02:25,969
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>he appeared before me.</i></font>
+00:03:32,587 --> 00:03:35,867
+මට මිනිසෙක් අත තැවරුණොත් මම අතුරුදන් වෙනවා.
 
 12
-00:02:50,079 --> 00:02:52,059
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Why are you crying?</font>
+00:03:38,187 --> 00:03:40,397
+මිනිසෙක්...?
 
 13
-00:03:20,109 --> 00:03:23,389
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If a human touches me, I'll disappear.</font>
+00:04:21,137 --> 00:04:24,447
+අනේ තමුසෙ... මිනිසෙක් නෙවෙයි...
 
 14
-00:03:40,269 --> 00:03:43,949
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But... what do you mean by disappear?</font>
+00:04:27,077 --> 00:04:31,577
+මිනිසෙක් දරුවෙක් වැනසේ පාඩම් දෙනවද?
 
 15
-00:04:32,029 --> 00:04:33,969
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If I get touched by a human,</font>
+00:04:38,787 --> 00:04:42,797
+මට කඳු දෙවියන් තබා තිබ්බ මංත්‍රය.
 
 16
-00:04:35,479 --> 00:04:36,789
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">that's the end.</font>
+00:04:44,507 --> 00:04:46,447
+මිනිසෙක් මට අත තැවරුණොත්,
 
 17
-00:04:45,259 --> 00:04:46,719
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Grab the other end.</font>
+00:04:47,957 --> 00:04:49,267
+ඒක මා අග එක.
 
 18
-00:04:47,759 --> 00:04:48,869
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're lost, aren't you?</font>
+00:05:50,917 --> 00:05:51,677
+බල්ල.
 
 19
-00:04:50,289 --> 00:04:51,989
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'll lead you out of the forest.</font>
+00:06:25,657 --> 00:06:27,907
+මගේ නම ටකෙගාවා හොතාරු.
 
 20
-00:04:54,229 --> 00:04:55,849
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank you!</font>
+00:06:49,037 --> 00:06:52,707
+ඕනෑ නැතුව මම හෙට ස්තුති තෑග්ගක් සමග එන්නම්.
 
 21
-00:05:19,529 --> 00:05:21,979
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's just like going on a date!</font>
+00:07:13,737 --> 00:07:14,537
+හොතාරු!
 
 22
-00:05:22,549 --> 00:05:24,519
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Not a very romantic one...</font>
+00:07:14,537 --> 00:07:16,327
+අන්තු!
 
 23
-00:05:47,239 --> 00:05:47,949
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Bye.</font>
+00:07:43,717 --> 00:07:46,957
+ඔය කඳු දෙවියන්ගේ වනය... දන්නේ නැ.
 
 24
-00:05:49,509 --> 00:05:51,769
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Are you always going to be here?</font>
+00:07:46,957 --> 00:07:48,787
+එහෙම කියලා තියනව.
 
 25
-00:05:52,619 --> 00:05:54,619
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If I come back here, can we meet again?</font>
+00:08:26,707 --> 00:08:32,497
+මේ මත්ත කතාව ආරම්භ වුනා යක්ෂයන් සඳහා පෙරහැරකට ගිහිල්ල ඇතුළු වෙලා.
 
 26
-00:05:55,719 --> 00:05:58,399
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">This is the forest where the mountain god and spirits live.</font>
+00:09:42,687 --> 00:09:43,567
+උඹ ආව.
 
 27
-00:05:59,909 --> 00:06:02,499
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Set foot within, and you'll lose your way and be lost forever.</font>
+00:09:46,117 --> 00:09:48,387
+උඹ ආවොත් මට හිතෙන්න එපා.
 
 28
-00:06:04,219 --> 00:06:05,469
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You shouldn't come here.</font>
+00:09:49,497 --> 00:09:50,257
+උඹ...
 
 29
-00:06:06,509 --> 00:06:08,639
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's what the villagers say, right?</font>
+00:10:07,727 --> 00:10:08,797
+මෙතන ටිකක් හාත්පස.
 
 30
-00:06:13,179 --> 00:06:15,429
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm Takegawa Hotaru.</font>
+00:10:12,997 --> 00:10:14,187
+බය නොවන්.
 
 31
-00:06:15,939 --> 00:06:16,639
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You?</font>
+00:10:14,647 --> 00:10:16,097
+මම නැවත උඹව මේ ස්ථානයෙන් පිටතට යවනවා.
 
 32
-00:06:36,559 --> 00:06:40,229
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Anyway, I'll be back tomorrow with a thank-you present!</font>
+00:11:13,377 --> 00:11:16,737
+මේ මනුෂ්‍ය ළමයෙක්ද?
 
 33
-00:06:40,229 --> 00:06:41,039
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Bye!</font>
+00:11:18,207 --> 00:11:20,247
+මට මේ කාලිද?
 
 34
-00:07:05,119 --> 00:07:08,539
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru, you idiot!</font>
+00:11:22,127 --> 00:11:22,957
+නැහැ.
 
 35
-00:07:25,249 --> 00:07:26,169
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Uncle.</font>
+00:11:23,877 --> 00:11:24,747
+ඇය මගේ යහළුවා.
 
 36
-00:07:26,169 --> 00:07:27,149
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Huh?</font>
+00:11:33,107 --> 00:11:38,267
+ඔයා එහෙම කළොත් මම ඔයාව ගිල්ලනවා!
 
 37
-00:07:27,839 --> 00:07:30,629
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is it true that there are spirits living in that forest?</font>
+00:11:43,657 --> 00:11:45,537
+ඔව්! මේ නරි යෙක්ද?
 
 38
-00:07:31,239 --> 00:07:34,479
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Oh, the mountain god's forest... Who knows.</font>
+00:11:49,407 --> 00:11:50,527
+මේ තවත් ආත්මයක්.
 
 39
-00:07:34,479 --> 00:07:36,309
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's what they say.</font>
+00:11:52,087 --> 00:11:55,457
+මේ මිනිසුන් බය ගන්වන්න හදන නමුත් මේ බය නොකරන මොකක්ද?
 
 40
-00:07:41,469 --> 00:07:46,369
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">When I was little, I wanted to meet the spirits, so my friends and I often went into the forest.</font>
+00:12:21,747 --> 00:12:22,857
+මං ගැන කල්පනා නොකරන්.
 
 41
-00:08:10,799 --> 00:08:13,479
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">So then, whose festival could it have been?</font>
+00:12:23,357 --> 00:12:24,807
+ඔයා ගැන කියන්න.
 
 42
-00:08:22,749 --> 00:08:25,749
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Man, that takes me back!</font>
+00:12:29,407 --> 00:12:30,817
+ඒ නිසා මම ඔයා සඳහා බලා සිටියා.
 
 43
-00:08:25,749 --> 00:08:29,029
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">We were so stupid back when we were kids.</font>
+00:12:53,877 --> 00:12:55,427
+මෙහි, මෙහි!
 
 44
-00:09:03,959 --> 00:09:06,059
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Set foot within, and you'll lose your way and be lost forever.</i></font>
+00:12:56,657 --> 00:12:58,497
+එහි හොඳ.
 
 45
-00:09:30,209 --> 00:09:31,089
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You came.</font>
+00:13:01,427 --> 00:13:02,347
+එහි.
 
 46
-00:09:33,639 --> 00:09:35,909
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I didn't think you'd really come back.</font>
+00:13:13,747 --> 00:13:15,387
+මේ ගෝචර වුවත්,
 
 47
-00:09:37,019 --> 00:09:37,779
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You...</font>
+00:13:42,117 --> 00:13:45,137
+ගින් නිදා ගියාද?
 
 48
-00:09:40,039 --> 00:09:42,099
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You waited for me!</font>
+00:14:22,127 --> 00:14:24,507
+සමාවෙන්,
 
 49
-00:09:51,739 --> 00:09:52,919
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Sorry.</font>
+00:15:02,297 --> 00:15:03,677
+ගින්,
 
 50
-00:09:55,249 --> 00:09:56,319
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's a bit hot here.</font>
+00:15:05,127 --> 00:15:07,287
+මට නැවත මෙහි එන්න 
 
 51
-00:09:57,159 --> 00:09:58,619
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Shall we go somewhere cooler?</font>
+00:15:08,067 --> 00:15:09,967
+බොහෝම අමාරුයි.
 
 52
-00:09:58,979 --> 00:09:59,609
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">What?</font>
+00:15:11,067 --> 00:15:12,887
+මම ඔයාට පෙර කිව්වා නේද?
 
 53
-00:10:00,519 --> 00:10:01,709
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Don't worry.</font>
+00:15:13,327 --> 00:15:16,527
+මම මගේ අම්මාගේ සහෝදරයා වෙනුවෙන් රඳවා තිබෙන ස්ථානයේ ගිම්හාන සමය ගත කරන බව,
 
 54
-00:10:02,169 --> 00:10:03,619
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'll see you out of here again.</font>
+00:15:39,627 --> 00:15:42,427
+බලාපොරොත්තු වන දෙයක් විය.
 
 55
-00:10:59,199 --> 00:10:59,999
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin.</font>
+00:15:59,057 --> 00:16:00,827
+සීතලයි!
 
 56
-00:11:00,899 --> 00:11:04,259
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is that a human child?</font>
+00:16:02,717 --> 00:16:04,247
+ඔයා මෝඩයෙක්.
 
 57
-00:11:12,759 --> 00:11:14,129
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is that so?</font>
+00:16:04,627 --> 00:16:06,527
+ප්‍රශ්නයක් නැහැ, ජලය සීතලයි.
 
 58
-00:11:14,769 --> 00:11:16,159
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Human child.</font>
+00:16:41,457 --> 00:16:45,117
+මිනිස් ළමය, මේ ආත්මය අතට අල්ලන්න එපා.
 
 59
-00:11:39,609 --> 00:11:42,979
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">He transforms to scare people, but he's all bark and no bite.{He transforms to scare people, but he's actually cowardly and a good guy.}</font>
+00:16:46,737 --> 00:16:47,377
+ඔව්.
 
 60
-00:12:09,269 --> 00:12:10,379
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Never mind me.</font>
+00:17:15,157 --> 00:17:16,127
+හොතාරු!
 
 61
-00:12:16,929 --> 00:12:18,339
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's why I waited for you.</font>
+00:17:18,667 --> 00:17:19,537
+ඔයා කොහේද?
 
 62
-00:12:41,399 --> 00:12:42,949
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Over here, over here!</font>
+00:17:22,347 --> 00:17:23,227
+හොටාරු.
 
 63
-00:12:48,949 --> 00:12:49,869
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">There.</font>
+00:17:24,057 --> 00:17:24,567
+හො— 
 
 64
-00:13:01,269 --> 00:13:02,909
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Even though it was silly,</i></font>
+00:17:28,687 --> 00:17:30,657
+ඔයා මොකද කරන්නෙ?
 
 65
-00:14:00,849 --> 00:14:03,129
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ah, sorry!</font>
+00:17:33,107 --> 00:17:36,707
+මම ඔයාගේ බිය වූ මුහුණ බලන්න කැමති වුනා, නමුත්...
 
 66
-00:14:03,129 --> 00:14:04,529
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ouch!</font>
+00:17:42,707 --> 00:17:44,227
+මම ආසමානයේ ඉන්න කොට,
 
 67
-00:14:05,539 --> 00:14:09,649
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Attacking someone while they're asleep... You sure are a scary little lady.</font>
+00:17:44,747 --> 00:17:47,367
+ඔයා මුහුණ වැස්ම බැරි වෙලාවට ඉවත් කරන්න පුළුවන්ද?
 
 68
-00:14:21,239 --> 00:14:23,099
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Why are you wearing that mask?</font>
+00:17:48,377 --> 00:17:49,217
+හොදයි,
 
 69
-00:14:24,099 --> 00:14:25,919
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If I don't wear this mask,</font>
+00:17:49,877 --> 00:17:51,467
+නමුත් එක හේතුවක් තියෙනවද?
 
 70
-00:14:26,609 --> 00:14:28,319
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I don't look like a spirit, do I?</font>
+00:17:52,057 --> 00:17:54,567
+මොකක් නැහැ, නමුත්—
 
 71
-00:14:40,159 --> 00:14:41,409
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're weird.</font>
+00:18:25,447 --> 00:18:26,787
+හරි හරි.
 
 72
-00:14:49,819 --> 00:14:51,199
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Um, Gin.</font>
+00:18:34,107 --> 00:18:39,517
+ඕනෑ ම විදිහකින් නමුත් මට ඇතුළත ඇල්ලන්න එපා, හරි?
 
 73
-00:14:52,649 --> 00:14:54,809
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I won't be able</font>
+00:18:55,917 --> 00:18:57,177
+ඕනෑ ම විදිහකින්!
 
 74
-00:14:55,589 --> 00:14:57,489
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">to come here tomorrow.</font>
+00:19:09,957 --> 00:19:12,287
+මම වනය ගිහින් ආවා.
 
 75
-00:14:58,589 --> 00:15:00,409
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I told you about it before, right?</font>
+00:19:21,887 --> 00:19:23,607
+මම යනවා!
 
 76
-00:15:04,699 --> 00:15:08,289
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">So I have to go home tomorrow.</font>
+00:19:36,517 --> 00:19:37,257
+කිම විදියක,
 
 77
-00:15:14,529 --> 00:15:15,969
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Will you be able to come again next year?</font>
+00:19:56,347 --> 00:19:57,437
+ඔ.
 
 78
-00:15:27,149 --> 00:15:29,949
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>became something I looked forward to.</i></font>
+00:19:58,207 --> 00:19:58,837
+අ?
 
 79
-00:15:40,509 --> 00:15:44,999
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Gin waited for our promised summer.</i></font>
+00:19:59,447 --> 00:20:00,267
+මොකක් නැ.
 
 80
-00:16:06,799 --> 00:16:07,319
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin!</font>
+00:20:01,057 --> 00:20:02,707
+මම දැන් මධ්‍ය පාසල් ළමයෙක් වුනත්,
 
 81
-00:16:09,009 --> 00:16:09,649
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin!</font>
+00:20:02,707 --> 00:20:07,827
+මගේ ප්‍රාථමික පාසලේ යහළුවන් බොහෝ දෙනෙක් එකම පන්තියේ ඉන්න නිසා, මොකක් වෙනස් වෙලා නැති විදිහට හිතෙ.
 
 82
-00:16:10,489 --> 00:16:12,339
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's dangerous, Gin.</font>
+00:20:17,807 --> 00:20:18,667
+කිම විදියක,
 
 83
-00:16:34,259 --> 00:16:34,899
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yes.</font>
+00:20:37,867 --> 00:20:39,397
+මම යනවා!
 
 84
-00:16:44,309 --> 00:16:45,259
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin.</font>
+00:22:37,067 --> 00:22:38,427
+ඔ හොටාරු.
 
 85
-00:16:46,599 --> 00:16:47,689
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Be careful.</font>
+00:22:38,427 --> 00:22:40,337
+මම තරබොටු කප්පලා. කමන්න.
 
 86
-00:16:57,759 --> 00:17:01,199
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Two summers passed. Then three. {the original line for this is really bad, plz2tlc}</i></font>
+00:22:40,607 --> 00:22:42,897
+හරි, ඕකි.
 
 87
-00:17:16,209 --> 00:17:18,179
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">What're you doing?</font>
+00:22:56,767 --> 00:22:59,417
+උදා සවස දුම්රිය ගන්නවද?
 
 88
-00:17:30,229 --> 00:17:31,749
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">At least when I'm around,</font>
+00:23:00,457 --> 00:23:01,527
+මට දන්නෙ නැ,
 
 89
-00:17:32,269 --> 00:17:34,889
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">can you take off your mask every once in a while?</font>
+00:23:01,527 --> 00:23:04,267
+නමුත් මම දවල් තුරු මෙතන ඉන්න බව කිව්වා.
 
 90
-00:17:35,899 --> 00:17:36,739
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's fine,</font>
+00:23:14,217 --> 00:23:17,407
+මෙහෙම ගියොත් ශීත ඍතුව හැදියාවි.
 
 91
-00:17:37,399 --> 00:17:38,989
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">but is there a reason?</font>
+00:23:18,477 --> 00:23:19,757
+එහෙමද?
 
 92
-00:17:39,579 --> 00:17:42,089
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Not really, but—</font>
+00:23:20,687 --> 00:23:21,707
+එහෙමයි.
 
 93
-00:18:32,459 --> 00:18:33,129
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Okay?</font>
+00:23:28,997 --> 00:23:31,917
+සීත සෘතුවට සහ ගිම්හානයට අතර උෂ්ණත්ව වෙනස මහත.
 
 94
-00:18:43,439 --> 00:18:44,699
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">No matter what!</font>
+00:23:52,777 --> 00:23:53,787
+ශාල්වා එකක්?
 
 95
-00:18:57,479 --> 00:18:59,809
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>I visited the forest.</i></font>
+00:23:54,367 --> 00:23:55,027
+ඔව්!
 
 96
-00:19:13,839 --> 00:19:16,039
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin! I'm here again this year.</font>
+00:23:55,537 --> 00:23:57,047
+සීත සෘතුවේදී මේක පැල්ඳන්න, හරි?
 
 97
-00:19:17,439 --> 00:19:18,419
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ta-da!</font>
+00:23:59,667 --> 00:24:00,507
+ආයුබෝවන්!
 
 98
-00:19:19,109 --> 00:19:21,069
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I've become a fifth grader.</font>
+00:24:03,177 --> 00:24:03,907
+හරි.
 
 99
-00:19:24,039 --> 00:19:24,779
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Somehow,</font>
+00:24:06,457 --> 00:24:07,957
+අන්න ඊයෙ මුණගහන්න.
 
 100
-00:19:25,609 --> 00:19:27,349
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">you're starting to look like a woman.</font>
+00:24:23,867 --> 00:24:24,767
+ටකෙගාවා?
 
 101
-00:19:27,669 --> 00:19:29,849
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I <i>am</i> a woman.</font>
+00:24:25,397 --> 00:24:27,757
+ඊයෙ පන්තියට යන්න ඕන නැද්ද?
 
 102
-00:19:34,119 --> 00:19:34,879
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah.</font>
+00:24:58,837 --> 00:25:00,187
+කල්ලිය?
 
 103
-00:19:34,879 --> 00:19:35,569
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Huh?</i></font>
+00:25:00,427 --> 00:25:03,657
+ආ උඹ දැන් කාලා තියෙනවද බත් කාපු ගමන්?
 
 104
-00:19:36,119 --> 00:19:37,109
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>This is...</i></font>
+00:25:03,657 --> 00:25:05,407
+කෑම බොනවා නම් ලෙඩ වෙනව.
 
 105
-00:19:50,229 --> 00:19:55,349
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">a lot of my elementary school friends are in the same classes, so it doesn't really feel like anything changed.</font>
+00:25:05,407 --> 00:25:07,027
+මම කෑවේ නැ.
 
 106
-00:20:17,959 --> 00:20:18,699
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Like this?</font>
+00:25:07,027 --> 00:25:08,897
+මොකද මම නාවන්න යන්නෙ.
 
 107
-00:20:19,639 --> 00:20:22,989
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah, yeah. When I start running, let go, okay?</font>
+00:25:39,357 --> 00:25:40,217
+ටකෙගාවා.
 
 108
-00:20:25,389 --> 00:20:26,919
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Here I go!</font>
+00:25:44,757 --> 00:25:46,497
+ඔයා සුබ උදෑසනක.
 
 109
-00:21:01,329 --> 00:21:06,539
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>As the years go by, my appearance changes,</i></font>
+00:25:46,797 --> 00:25:47,537
+සුබ උදෑසනක.
 
 110
-00:21:08,009 --> 00:21:11,789
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>but Gin is almost the same as the day we met.</i></font>
+00:26:10,387 --> 00:26:12,127
+අද දවසේ සීතය.
 
 111
-00:22:24,589 --> 00:22:25,949
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Oh, Hotaru.</font>
+00:26:18,277 --> 00:26:21,337
+තමා නිතර ම එහෙම තමයි කියල...
 
 112
-00:22:25,949 --> 00:22:27,859
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I cut some watermelon. Let's eat.</font>
+00:26:23,057 --> 00:26:24,037
+මම...
 
 113
-00:22:28,129 --> 00:22:30,419
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Okay. Yay!</font>
+00:26:26,197 --> 00:26:27,397
+ජින් ගැන බලන්න.
 
 114
-00:22:36,119 --> 00:22:37,129
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Where's Mom?</font>
+00:27:39,527 --> 00:27:41,017
+කාලය වේගයෙන් යයි, නෙ?
 
 115
-00:22:37,699 --> 00:22:39,049
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Out shopping with your aunt.</font>
+00:27:41,627 --> 00:27:43,497
+අද උඹ උසස් පාසල් ළමයෙක්, නෙ?
 
 116
-00:22:39,419 --> 00:22:41,989
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">They went to buy gifts for friends in Yokohama.</font>
+00:27:43,497 --> 00:27:44,477
+ඔව්.
 
 117
-00:22:44,289 --> 00:22:46,939
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">What time are you taking the bullet train tomorrow?</font>
+00:27:54,187 --> 00:27:56,617
+දැන් උඹ මට දුවගෙන එනවද?
 
 118
-00:22:47,979 --> 00:22:49,049
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I don't know,</font>
+00:27:56,617 --> 00:28:00,887
+මට පැටි ගැසූ නිසා මං උගන්න පුලුවන්.
 
 119
-00:22:49,049 --> 00:22:51,789
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">but they said I'll still be here until the afternoon.</font>
+00:28:08,597 --> 00:28:09,937
+මම බලාපොරොත්තු වෙනව.
 
 120
-00:22:52,889 --> 00:22:53,869
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is that so?</font>
+00:28:10,867 --> 00:28:15,647
+තුන් වසරකට පසු මම උපාධිය ලබා ගත්ත ගමන් මෙතැනදී රැකියාවක් සොයන්න බලනව.
 
 121
-00:23:01,739 --> 00:23:04,929
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If it continues like this, then winter will be freezing.</font>
+00:28:16,547 --> 00:28:19,717
+එතකොට මම ඔයා සමග වැඩි කාලයක් ගත කරන්න පුළුවන්.
 
 122
-00:23:05,999 --> 00:23:07,279
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is it like that?</font>
+00:28:21,227 --> 00:28:22,057
+සරත් සමයේ,
 
 123
-00:23:08,209 --> 00:23:09,229
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's like that.</font>
+00:28:29,047 --> 00:28:29,667
+ඔව්?
 
 124
-00:23:12,099 --> 00:23:16,519
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Since this area's located between mountains and the ocean's far away,</font>
+00:28:38,047 --> 00:28:40,897
+මම ගැන ඔයාට කියන්නම්.
 
 125
-00:23:23,909 --> 00:23:27,809
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">could probably freeze the mountain god himself.</font>
+00:28:47,517 --> 00:28:48,997
+මම මිනිසෙක් නෙවෙයි.
 
 126
-00:23:34,969 --> 00:23:36,309
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Um, Uncle...</font>
+00:28:56,907 --> 00:29:01,807
+මට අත්හැරුණු බව දැනෙන විට මම බියෙන් අසුන් වෙලා හඬනවා.
 
 127
-00:23:40,299 --> 00:23:41,309
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">A scarf?</font>
+00:29:08,877 --> 00:29:10,687
+මම දීර්ඝ කාලයක් නැවතී හඬන්නට පටන් ගත්තා කියල කියනව.
 
 128
-00:23:41,889 --> 00:23:42,549
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yep!</font>
+00:29:22,447 --> 00:29:26,767
+කඳු දෙවියන් පෙන්න මට ජීවත් වෙන්න මන්ත්‍ර එකක් කළා.
 
 129
-00:23:43,059 --> 00:23:44,569
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Please use it in the winter, okay?</font>
+00:29:28,007 --> 00:29:32,317
+මම ඉදිරියට යාම නවත්තන්න.
 
 130
-00:23:47,189 --> 00:23:48,029
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Bye!</font>
+00:29:47,897 --> 00:29:51,127
+මායාවෙන් ආරක්ෂා වෙන සිරුර අඩු බලය.
 
 131
-00:23:50,699 --> 00:23:51,429
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Okay.</font>
+00:29:52,347 --> 00:29:54,387
+මිනිස් සිරුරට ගැටෙන විට,
 
 132
-00:23:53,979 --> 00:23:55,479
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">See you next year!</font>
+00:30:02,387 --> 00:30:03,997
+මෙන්න මේ බඩ වැනි.
 
 133
-00:24:11,389 --> 00:24:12,289
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Takegawa?</font>
+00:30:05,107 --> 00:30:06,737
+ගින්,
 
 134
-00:24:12,919 --> 00:24:15,279
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Shouldn't you be heading to your next class soon?</font>
+00:30:07,867 --> 00:30:11,197
+ශීත කාලයේ මම ඔයා ගැන අදහස් කරනව.
 
 135
-00:24:15,909 --> 00:24:17,599
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ah, you're right!</font>
+00:30:12,247 --> 00:30:13,097
+සරත් සමයේ ද,
 
 136
-00:24:17,599 --> 00:24:19,189
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Everyone left already.</font>
+00:30:21,977 --> 00:30:23,167
+මරණව.
 
 137
-00:24:19,189 --> 00:24:20,739
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'll see you later.</font>
+00:30:32,577 --> 00:30:33,517
+තවමත්,
 
 138
-00:24:20,739 --> 00:24:22,469
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Okay! Thanks.</font>
+00:30:49,527 --> 00:30:51,537
+මේ නුවණ සම්පූර්ණයෙන් වෙනස්!
 
 139
-00:24:44,379 --> 00:24:45,389
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank you for the food.</font>
+00:30:52,067 --> 00:30:53,227
+නුවණ?
 
 140
-00:24:45,389 --> 00:24:45,959
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">What?</font>
+00:30:54,147 --> 00:30:58,047
+ඔයා ළමයෙක් වුණාම බිය වෙයි කියල මම ඔයාට ආරාධනා කරන්නෙ නෙවෙ.
 
 141
-00:24:46,359 --> 00:24:47,709
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're done?</font>
+00:30:58,797 --> 00:31:02,037
+නුමුත් අද රාත්‍රියේ ඔයා ගෙදර පිට වෙලා එන්න පුළුවන්ද?
 
 142
-00:24:47,949 --> 00:24:51,179
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ah, you probably ate before dinner, didn't you?</font>
+00:31:02,587 --> 00:31:04,857
+දීර්ඝ කාලයක සිට මම ඔයා සමග යන්න කැමති.
 
 143
-00:24:51,179 --> 00:24:52,929
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If you snack, you'll gain weight.</font>
+00:31:06,977 --> 00:31:08,927
+ම-ම යන්න කැමතියි!
 
 144
-00:24:52,929 --> 00:24:54,549
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I didn't eat anything!</font>
+00:31:17,267 --> 00:31:18,907
+ඒ වගේම රාත්‍රියේ.
 
 145
-00:25:26,879 --> 00:25:27,739
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Takegawa.</font>
+00:31:19,837 --> 00:31:20,747
+බිය නොව්.
 
 146
-00:25:29,559 --> 00:25:30,879
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ta-ke-ga-wa.</font>
+00:31:35,037 --> 00:31:35,997
+ඒ කරන්න.
 
 147
-00:25:43,489 --> 00:25:44,959
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You'll slip. It's dangerous.</font>
+00:31:37,357 --> 00:31:38,307
+අදහස් විදියට.
 
 148
-00:25:49,649 --> 00:25:50,559
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank you.</font>
+00:32:17,747 --> 00:32:21,377
+මිනිස් උත්සවයක් වගේ.
 
 149
-00:27:14,419 --> 00:27:16,109
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is that your new uniform?</font>
+00:32:21,967 --> 00:32:23,767
+ඔවුන් සියල්ල මිනිසුන් වෙස් ගත්තා?
 
 150
-00:27:16,549 --> 00:27:17,279
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah.</font>
+00:32:23,767 --> 00:32:25,907
+ඔව්. ආශ්චර්යයි.
 
 151
-00:27:27,049 --> 00:27:28,539
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Time really flies, doesn't it?</font>
+00:32:32,897 --> 00:32:33,707
+මෙය කවුද?
 
 152
-00:27:29,149 --> 00:27:31,019
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're already in high school, huh.</font>
+00:32:37,847 --> 00:32:38,687
+හොටාරු.
 
 153
-00:27:31,019 --> 00:27:31,999
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yup.</font>
+00:32:40,127 --> 00:32:42,057
+මේක උඹේ අත්ලට බඳින්න.
 
 154
-00:27:41,709 --> 00:27:44,139
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You don't come running at me anymore these days.</font>
+00:32:42,527 --> 00:32:43,477
+උඹ මේ සොයා ගන්න බැහ.
 
 155
-00:27:44,139 --> 00:27:48,409
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I learned my lesson after all those beatings.</font>
+00:32:48,517 --> 00:32:50,427
+මෙය දිනයක් යාමට වගේම ය!
 
 156
-00:27:56,119 --> 00:27:57,459
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm looking forward to it.</font>
+00:32:51,277 --> 00:32:53,027
+මෙය දිනයක් යාමයි.
 
 157
-00:27:58,389 --> 00:28:03,169
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">In three years, when I graduate, I plan on looking for a job here.</font>
+00:32:55,857 --> 00:32:56,757
+අපි යමුද?
 
 158
-00:28:04,069 --> 00:28:07,239
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Then I can be with you more.</font>
+00:32:57,317 --> 00:32:57,867
+ඔව්.
 
 159
-00:28:08,749 --> 00:28:09,579
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">In autumn,</font>
+00:34:34,487 --> 00:34:36,427
+මට සමාවෙන්න!
 
 160
-00:28:10,639 --> 00:28:11,489
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">winter,</font>
+00:34:53,947 --> 00:34:56,867
+වා! මෙය බොහෝ අසම්මත!
 
 161
-00:28:12,689 --> 00:28:13,609
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">spring...</font>
+00:34:56,867 --> 00:34:59,177
+හරි, හැමෝම තම වෙස් වලට බොහෝ උත්සාහ කළා!
 
 162
-00:28:14,699 --> 00:28:15,689
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Always.</font>
+00:34:59,177 --> 00:35:01,257
+මෙය අනුකරණ තරගයක් වගේ!
 
 163
-00:28:16,569 --> 00:28:17,189
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Right?</font>
+00:35:01,257 --> 00:35:02,677
+මෙය හැම වර්ෂයේම මෙහෙමද?
 
 164
-00:28:23,169 --> 00:28:23,969
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru.</font>
+00:35:11,167 --> 00:35:14,597
+මට සැම වර්ෂයේ සවස එනතුරු බලා සිටිය නොහැක.
 
 165
-00:28:25,569 --> 00:28:28,419
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Let me tell you about myself.</font>
+00:35:46,787 --> 00:35:47,707
+ඒ මුහුණු පොරක...
 
 166
-00:28:30,369 --> 00:28:31,959
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm not a spirit.</font>
+00:35:48,617 --> 00:35:49,407
+ගන්න.
 
 167
-00:28:32,979 --> 00:28:33,779
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But,</font>
+00:35:56,117 --> 00:36:02,647
+ඔහු සඳහා අද වර්ෂයේ ඒ ස්ථානයට නොඑන බව මට හැගේ.
 
 168
-00:28:35,039 --> 00:28:36,519
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm no longer human.</font>
+00:36:05,077 --> 00:36:08,397
+මෙය අපගේ අවසාන...
 
 169
-00:28:37,749 --> 00:28:39,699
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It seems like I was once a human,</font>
+00:36:08,687 --> 00:36:10,077
+රැඳී ඉඳ!
 
 170
-00:28:39,699 --> 00:28:41,319
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">but when I was a baby,</font>
+00:36:11,287 --> 00:36:11,897
+බලාගන්න!
 
 171
-00:29:09,969 --> 00:29:14,289
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">but the mountain god appeared and cast a spell that allowed me to continue living.</font>
+00:36:14,527 --> 00:36:15,657
+ඔබට හොඳද?
 
 172
-00:29:23,409 --> 00:29:25,269
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm like a ghost.</font>
+00:36:15,837 --> 00:36:17,627
+ඔව්. ස්තුති!
 
 173
-00:29:28,039 --> 00:29:28,829
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru.</font>
+00:36:18,297 --> 00:36:19,757
+අවධානයෙන්, හරි?
 
 174
-00:29:39,869 --> 00:29:41,909
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If it touches a real human body,</font>
+00:36:29,447 --> 00:36:30,297
+ජින්?
 
 175
-00:29:42,329 --> 00:29:44,269
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">the spell will break and the body will disappear.</font>
+00:37:31,647 --> 00:37:32,957
+මම ද ඔබ සමග ආදරය කරමි.
 
 176
-00:29:49,909 --> 00:29:51,519
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's just like snow, isn't it?</font>
+00:37:55,407 --> 00:37:56,617
+ගැඹුරු කොළ.
 
 177
-00:29:52,629 --> 00:29:54,259
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin,</font>
+00:37:57,907 --> 00:37:59,687
+මෙය කඳු දෙවියන්ගේ වන.
 
 178
-00:29:55,389 --> 00:29:58,719
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I thought of you during winter.</font>
+00:38:11,077 --> 00:38:16,317
+ජින් මනුෂ්‍යයෙකු ස්පර්ශ කිරීමට කැමති විය.
 
 179
-00:30:04,139 --> 00:30:04,879
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin,</font>
+00:38:21,577 --> 00:38:23,897
+මට නොහැකි වේ...
 
 180
-00:30:05,739 --> 00:30:08,029
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">don't forget about me.</font>
+00:38:50,657 --> 00:38:52,447
+අපි යමු.
 
 181
-00:30:09,499 --> 00:30:10,689
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Don't forget.</font>
-
-182
-00:30:20,099 --> 00:30:21,039
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">even still,</font>
-
-183
-00:30:21,679 --> 00:30:23,049
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">until then,</font>
-
-184
-00:30:23,919 --> 00:30:25,349
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">let's stay together.</font>
-
-185
-00:30:30,369 --> 00:30:32,059
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Spirit festival?</font>
-
-186
-00:30:37,049 --> 00:30:39,059
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">The nuance is completely different!</font>
-
-187
-00:30:39,589 --> 00:30:40,749
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Nuance?</font>
-
-188
-00:30:41,669 --> 00:30:45,569
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">When you were little, I thought you might get scared, so I didn't invite you.</font>
-
-189
-00:30:56,449 --> 00:30:59,239
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Meet me at eight at our usual place.</font>
-
-190
-00:30:59,739 --> 00:31:04,379
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But a festival filled with spirits sounds a little unnerving...</font>
-
-191
-00:31:04,789 --> 00:31:06,429
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">On top of that, it's at night.</font>
-
-192
-00:31:07,359 --> 00:31:08,269
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Don't worry.</font>
-
-193
-00:31:08,729 --> 00:31:10,859
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">On the outside, it's not very different from a human festival.</font>
-
-194
-00:31:11,459 --> 00:31:14,099
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's supposed to mimic human festivals, after all.</font>
-
-195
-00:31:14,809 --> 00:31:17,289
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">And I'll protect you, Hotaru.</font>
-
-196
-00:31:18,359 --> 00:31:22,559
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">When you say things that, it makes me want to glomp you.</font>
-
-197
-00:31:22,559 --> 00:31:23,519
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Do it.</font>
-
-198
-00:32:05,269 --> 00:32:08,899
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's true. It's just like a human festival.</font>
-
-199
-00:32:09,489 --> 00:32:11,289
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Are they all disguised as humans?</font>
-
-200
-00:32:11,289 --> 00:32:13,429
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's right. Impressive, isn't it?</font>
-
-201
-00:32:13,429 --> 00:32:17,049
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I've heard that sometimes even humans unknowingly mix in.</font>
-
-202
-00:32:20,419 --> 00:32:21,229
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Who?</font>
-
-203
-00:32:36,039 --> 00:32:37,949
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's just like going on a date!</font>
-
-204
-00:32:38,799 --> 00:32:40,549
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">This <i>is</i> a date.</font>
-
-205
-00:32:43,379 --> 00:32:44,279
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Shall we go?</font>
-
-206
-00:32:44,839 --> 00:32:45,389
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah.</font>
-
-207
-00:33:12,879 --> 00:33:13,759
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Here you go.</font>
-
-208
-00:33:47,609 --> 00:33:49,339
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ew, a couple!</font>
-
-209
-00:33:49,339 --> 00:33:50,739
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hey!</font>
-
-210
-00:34:02,589 --> 00:34:04,959
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Look! That kid has a tail!</font>
-
-211
-00:34:22,009 --> 00:34:23,949
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I-I'm sorry!</font>
-
-212
-00:34:41,469 --> 00:34:44,389
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Wow, that was so weird!</font>
-
-213
-00:35:03,719 --> 00:35:09,119
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">When I'm away from you, even though I can't be around crowds, I want to go see you.</font>
-
-214
-00:35:52,599 --> 00:35:55,919
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>This is definitely our last...</i></font>
-
-215
-00:35:56,209 --> 00:35:57,599
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Wait!</font>
-
-216
-00:36:03,359 --> 00:36:05,149
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah. Thank you!</font>
-
-217
-00:36:05,819 --> 00:36:07,279
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Be careful, okay?</font>
-
-218
-00:36:16,969 --> 00:36:17,819
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin?</font>
-
-219
-00:36:28,939 --> 00:36:29,749
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin!</font>
-
-220
-00:36:30,649 --> 00:36:32,189
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Come here, Hotaru!</font>
-
-221
-00:36:32,789 --> 00:36:34,639
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I can finally touch you.</font>
-
-222
-00:37:15,569 --> 00:37:16,549
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I love you.</font>
-
-223
-00:37:17,299 --> 00:37:17,999
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah.</font>
-
-224
-00:37:19,169 --> 00:37:20,479
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I love you, too.</font>
-
-225
-00:37:51,669 --> 00:37:54,359
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru. Thank you.</font>
-
-226
-00:37:58,599 --> 00:38:03,839
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin wanted to touch a human.</font>
-
-227
-00:38:19,269 --> 00:38:20,759
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>My tears will be overflowing.</i></font>
-
-228
-00:38:22,009 --> 00:38:30,509
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>But this warmth in my hands and these summer memories will live on in my heart.</i></font>
-
-229
-00:38:38,179 --> 00:38:39,969
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>So, let's go.</i></font>
-
-230
-00:38:44,859 --> 00:38:46,029
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Let us go.</i></font>
-
-231
-00:39:18,679 --> 00:39:18,689
+00:39:31,157 --> 00:39:31,167
 <font face="LTFinnegan Medium" size="75" color="#f9f4f1">{ED}</font>
 
-232
-00:39:25,129 --> 00:44:14,449
+182
+00:39:37,607 --> 00:44:26,927
 <font face="LTFinnegan Medium" size="75" color="#f9f4f1">{\an7}<font color="#000000">m 1920 960 l 1920 1080 l 0 1080 l 0 960 l 1920 960 {p0}</font></font>
 
-233
-00:39:44,979 --> 00:39:50,909
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">The cicadas laugh out in song</font></font>
+183
+00:39:57,457 --> 00:40:03,387
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">සල්ලි හඬන්න ගීත ගයති</font></font>
 
-234
-00:39:51,809 --> 00:39:57,549
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}to the red evening sunset</font>
+184
+00:40:18,127 --> 00:40:24,417
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">නමුත් අපි අද නැවත මෙතැනට එන බව පොරොන්දු වුනා</font></font>
 
-235
-00:39:57,969 --> 00:40:04,789
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The way back home is long</font>
+185
+00:40:41,747 --> 00:40:54,587
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">ඔබව හැම විටකම අලංකාර බවට ගෙන ඒම</font></font>
 
-236
-00:40:05,649 --> 00:40:11,939
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}but I promised to come here again tomorrow</font>
+186
+00:41:31,047 --> 00:41:38,057
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">ගියා දුර දුර ගියාක</font></font>
 
-237
-00:40:15,689 --> 00:40:27,969
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The summer is in full bloom</font>
+187
+00:41:41,737 --> 00:41:54,277
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">හවා ගලා යයි</font></font>
 
-238
-00:41:10,799 --> 00:41:17,629
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The crows too took flight</font>
+188
+00:41:55,847 --> 00:42:08,747
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">අදුත් වසර තෙක් ඔවුන්ගේ බඩු සඟවා තබන්න</font></font>
 
-239
-00:41:18,569 --> 00:41:25,579
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}and went somewhere far, far away</font>
+189
+00:42:56,657 --> 00:43:03,097
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">මම කවදාවත් මරණින් නොමඟ හරින්නෙ</font></font>
 
-240
-00:41:29,259 --> 00:41:41,799
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The summer flies by</font>
+190
+00:43:04,377 --> 00:43:10,577
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">ඒ රන් වන හවා දින</font></font>
 
-241
-00:41:43,369 --> 00:41:56,269
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}to hide away its treasures till next year</font>
+191
+00:43:11,247 --> 00:43:18,127
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">සතුට ගෙන ආ ඒ හවා</font></font>
 
-242
-00:42:44,179 --> 00:42:50,619
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}I'll never ever forget</font>
+192
+00:43:19,417 --> 00:43:25,707
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">මගේ සාමාන්‍ය දින චරියාවට</font></font>
 
-243
-00:42:51,899 --> 00:42:58,099
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}those golden summer days</font>
-
-244
-00:42:58,769 --> 00:43:05,649
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}That summer which brought joy</font>
-
-245
-00:43:06,939 --> 00:43:13,229
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}to my boring everyday life</font>
-
-246
-00:43:18,919 --> 00:43:32,019
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}And look! Summer is here again</font>
-
-247
-00:43:32,839 --> 00:43:45,129
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}to help me keep my promise of that day</font>
-
-248
-00:44:00,119 --> 00:44:12,939
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}making you look more beautiful than ever</font>
-
+193
+00:44:12,597 --> 00:44:25,417
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">ඔබව හැම විටකම අලංකාර බවට ගෙන ඒම</font></font>
