@@ -1,564 +1,956 @@
 1
-00:00:45,773 --> 00:00:47,153
+00:00:53,287 --> 00:00:54,667
 <font face="LTFinnegan Medium" size="75" color="#f9f4f1">There we go...</font>
 
 2
-00:01:01,443 --> 00:01:04,163
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Make sure you don't forget your luggage on the bullet train, okay?</font>
+00:01:04,367 --> 00:01:05,787
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Wait, don't tell me that's everything?</font>
 
 3
-00:01:04,163 --> 00:01:06,293
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Don't zone out and miss your stop.</font>
+00:01:05,787 --> 00:01:08,047
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's fine. I made sure I packed the black ones.</font>
 
 4
-00:01:06,293 --> 00:01:07,793
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah, I got it!</font>
+00:01:08,957 --> 00:01:11,677
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Make sure you don't forget your luggage on the bullet train, okay?</font>
 
 5
-00:01:08,173 --> 00:01:11,643
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Jeez. I've been going there every year, so I'll be all right.</font>
+00:01:11,677 --> 00:01:13,807
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Don't zone out and miss your stop.</font>
 
 6
-00:02:06,503 --> 00:02:08,443
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>On a hot summer day,</i></font>
+00:01:13,807 --> 00:01:15,307
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah, I got it!</font>
 
 7
-00:02:08,443 --> 00:02:11,753
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>I got lost in the forest of the mountain god,</i></font>
+00:01:15,687 --> 00:01:19,157
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Jeez. I've been going there every year, so I'll be all right.</font>
 
 8
-00:02:12,313 --> 00:02:14,483
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>which was said to be where spirits lived.</i></font>
+00:01:19,157 --> 00:01:22,637
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hey, put on a hat. You'll get heat stroke.</font>
 
 9
-00:03:25,073 --> 00:03:28,353
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If a human touches me, I'll disappear.</font>
+00:01:22,637 --> 00:01:25,067
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's alright! I'm fine.</font>
 
 10
-00:04:13,623 --> 00:04:16,933
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Y-You're really not human after all...</font>
+00:01:27,567 --> 00:01:28,907
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">See you!</font>
 
 11
-00:04:31,273 --> 00:04:35,283
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's the spell that the mountain god placed upon me.</font>
+00:01:57,137 --> 00:01:59,227
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>The first time I met him</i></font>
 
 12
-00:04:50,223 --> 00:04:51,683
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Grab the other end.</font>
+00:02:19,827 --> 00:02:21,997
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>which was said to be where spirits lived.</i></font>
 
 13
-00:05:48,163 --> 00:05:50,893
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If you go straight, you'll hit the mountain path.</font>
+00:03:08,277 --> 00:03:11,667
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's a person! I'm saved!</font>
 
 14
-00:05:52,203 --> 00:05:52,913
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Bye.</font>
+00:03:24,717 --> 00:03:26,187
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">S-Sorry.</font>
 
 15
-00:06:04,873 --> 00:06:07,463
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Set foot within, and you'll lose your way and be lost forever.</font>
+00:03:38,187 --> 00:03:40,397
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If a human...?</font>
 
 16
-00:06:09,183 --> 00:06:10,433
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You shouldn't come here.</font>
+00:03:52,747 --> 00:03:56,427
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But... what do you mean by disappear?</font>
 
 17
-00:06:11,473 --> 00:06:13,603
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's what the villagers say, right?</font>
+00:04:21,137 --> 00:04:24,447
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Y-You're really not human after all...</font>
 
 18
-00:06:20,903 --> 00:06:21,603
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You?</font>
+00:04:27,077 --> 00:04:31,577
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">No human would hit a child like that!</font>
 
 19
-00:07:06,223 --> 00:07:07,023
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru!</font>
+00:04:32,977 --> 00:04:37,137
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">To disappear means to be obliterated.</font>
 
 20
-00:07:07,023 --> 00:07:08,813
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ah, Uncle!</font>
+00:04:38,787 --> 00:04:42,797
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's the spell that the mountain god placed upon me.</font>
 
 21
-00:07:30,213 --> 00:07:31,133
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Uncle.</font>
+00:04:57,737 --> 00:04:59,197
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Grab the other end.</font>
 
 22
-00:07:31,133 --> 00:07:32,113
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Huh?</font>
+00:05:12,977 --> 00:05:14,037
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Didn't I just tell you?</font>
 
 23
-00:08:11,153 --> 00:08:15,323
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But there's no way the villagers would've held a festival in the forest.</font>
+00:05:14,037 --> 00:05:17,087
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Sorry, I just...</font>
 
 24
-00:08:15,763 --> 00:08:18,443
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">So then, whose festival could it have been?</font>
+00:05:55,677 --> 00:05:58,407
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If you go straight, you'll hit the mountain path.</font>
 
 25
-00:08:27,713 --> 00:08:30,713
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Man, that takes me back!</font>
+00:06:08,197 --> 00:06:10,877
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">This is the forest where the mountain god and spirits live.</font>
 
 26
-00:09:51,823 --> 00:09:53,963
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You just don't learn, do you?</font>
+00:06:12,387 --> 00:06:14,977
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Set foot within, and you'll lose your way and be lost forever.</font>
 
 27
-00:09:54,673 --> 00:09:56,703
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I was so happy, I just...</font>
+00:06:16,697 --> 00:06:17,947
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You shouldn't come here.</font>
 
 28
-00:09:56,703 --> 00:09:57,883
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Sorry.</font>
+00:06:18,987 --> 00:06:21,117
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's what the villagers say, right?</font>
 
 29
-00:11:10,693 --> 00:11:12,733
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Can I eat it?</font>
+00:06:49,037 --> 00:06:52,707
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Anyway, I'll be back tomorrow with a thank-you present!</font>
 
 30
-00:11:36,143 --> 00:11:38,023
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Oh! Is that a fox?</font>
+00:06:52,707 --> 00:06:53,517
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Bye!</font>
 
 31
-00:11:44,573 --> 00:11:47,943
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">He transforms to scare people, but he's all bark and no bite.{He transforms to scare people, but he's actually cowardly and a good guy.}</font>
+00:06:54,047 --> 00:06:54,647
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's Gin.</font>
 
 32
-00:12:14,233 --> 00:12:15,343
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Never mind me.</font>
-
-33
-00:12:15,843 --> 00:12:17,293
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Tell me about yourself.</font>
-
-34
-00:12:31,183 --> 00:12:36,193
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>The next day and the day after that, I went back to the forest.</i></font>
-
-35
-00:12:38,023 --> 00:12:42,563
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Those summer days, I ran and played all around the mountain.</i></font>
-
-36
-00:12:46,363 --> 00:12:47,913
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Over here, over here!</font>
-
-37
-00:12:55,983 --> 00:12:56,823
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank you!</font>
-
-38
-00:13:08,793 --> 00:13:10,603
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>it was so much fun.</i></font>
-
-39
-00:14:14,613 --> 00:14:16,993
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm sorry, but</font>
-
-40
-00:14:29,063 --> 00:14:30,883
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If I don't wear this mask,</font>
-
-41
-00:14:31,573 --> 00:14:33,283
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I don't look like a spirit, do I?</font>
-
-42
-00:14:54,783 --> 00:14:56,163
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Um, Gin.</font>
-
-43
-00:14:57,613 --> 00:14:59,773
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I won't be able</font>
-
-44
-00:15:00,553 --> 00:15:02,453
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">to come here tomorrow.</font>
-
-45
-00:15:03,553 --> 00:15:05,373
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I told you about it before, right?</font>
-
-46
-00:15:05,813 --> 00:15:09,013
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That I'm just staying at my uncle's place for the summer?</font>
-
-47
-00:15:45,473 --> 00:15:49,963
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Gin waited for our promised summer.</i></font>
-
-48
-00:15:51,543 --> 00:15:53,313
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's cold!</font>
-
-49
-00:15:55,203 --> 00:15:56,733
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're weird.</font>
-
-50
-00:15:57,113 --> 00:15:59,013
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Of course the water is cold.</font>
-
-51
-00:16:13,973 --> 00:16:14,613
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin!</font>
-
-52
-00:16:15,453 --> 00:16:17,303
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's dangerous, Gin.</font>
-
-53
-00:16:17,303 --> 00:16:19,583
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's a human child.</font>
-
-54
-00:16:19,583 --> 00:16:23,453
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If she touches you, you'll disappear.</font>
-
-55
-00:16:23,453 --> 00:16:24,453
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank you.</font>
-
-56
-00:16:49,273 --> 00:16:50,223
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin.</font>
-
-57
-00:16:51,563 --> 00:16:52,653
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Be careful.</font>
-
-58
-00:17:02,723 --> 00:17:06,163
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Two summers passed. Then three. {the original line for this is really bad, plz2tlc}</i></font>
-
-59
-00:17:07,643 --> 00:17:08,613
+00:07:13,737 --> 00:07:14,537
 <font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru!</font>
 
-60
-00:17:11,153 --> 00:17:12,023
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Where are you?</font>
+33
+00:07:14,537 --> 00:07:16,327
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ah, Uncle!</font>
 
-61
-00:17:35,193 --> 00:17:36,713
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">At least when I'm around,</font>
+34
+00:07:17,597 --> 00:07:21,017
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru, you idiot!</font>
 
-62
-00:17:37,233 --> 00:17:39,853
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">can you take off your mask every once in a while?</font>
+35
+00:07:37,727 --> 00:07:38,647
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Uncle.</font>
 
-63
-00:17:40,863 --> 00:17:41,703
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's fine,</font>
+36
+00:07:38,647 --> 00:07:39,627
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Huh?</font>
 
-64
-00:17:42,363 --> 00:17:43,953
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">but is there a reason?</font>
+37
+00:07:40,317 --> 00:07:43,107
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is it true that there are spirits living in that forest?</font>
 
-65
-00:18:02,523 --> 00:18:03,803
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That was close.</font>
+38
+00:07:53,947 --> 00:07:58,847
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">When I was little, I wanted to meet the spirits, so my friends and I often went into the forest.</font>
 
-66
-00:18:06,513 --> 00:18:07,983
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah...</font>
+39
+00:08:11,417 --> 00:08:18,027
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">And now that I think about it, Iwa said she and her friends went and had fun at a summer festival in the forest.</font>
 
-67
-00:18:10,083 --> 00:18:11,463
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm sorry, Hotaru.</font>
+40
+00:08:35,227 --> 00:08:38,227
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Man, that takes me back!</font>
 
-68
-00:18:12,283 --> 00:18:13,293
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Are you okay?</font>
+41
+00:09:12,277 --> 00:09:15,067
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>This is the forest where the mountain god and spirits live.</i></font>
 
-69
-00:18:26,593 --> 00:18:32,003
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">No matter what, don't ever touch me, okay?</font>
+42
+00:09:16,437 --> 00:09:18,537
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Set foot within, and you'll lose your way and be lost forever.</i></font>
 
-70
-00:19:29,003 --> 00:19:29,743
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Somehow,</font>
+43
+00:09:42,687 --> 00:09:43,567
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You came.</font>
 
-71
-00:20:30,353 --> 00:20:31,883
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Here I go!</font>
+44
+00:09:59,337 --> 00:10:01,477
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You just don't learn, do you?</font>
 
-72
-00:21:12,973 --> 00:21:16,753
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>but Gin is almost the same as the day we met.</i></font>
+45
+00:10:02,187 --> 00:10:04,217
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I was so happy, I just...</font>
 
-73
-00:23:13,173 --> 00:23:14,193
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's like that.</font>
+46
+00:10:04,217 --> 00:10:05,397
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Sorry.</font>
 
-74
-00:23:17,063 --> 00:23:21,483
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Since this area's located between mountains and the ocean's far away,</font>
-
-75
-00:23:28,873 --> 00:23:32,773
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">could probably freeze the mountain god himself.</font>
-
-76
-00:23:45,263 --> 00:23:46,273
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">A scarf?</font>
-
-77
-00:23:55,663 --> 00:23:56,393
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Okay.</font>
-
-78
-00:23:58,943 --> 00:24:00,443
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">See you next year!</font>
-
-79
-00:24:20,873 --> 00:24:22,563
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ah, you're right!</font>
-
-80
-00:24:22,563 --> 00:24:24,153
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Everyone left already.</font>
-
-81
-00:24:24,153 --> 00:24:25,703
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'll see you later.</font>
-
-82
-00:24:25,703 --> 00:24:27,433
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Okay! Thanks.</font>
-
-83
-00:24:50,353 --> 00:24:50,923
+47
+00:10:11,457 --> 00:10:12,087
 <font face="LTFinnegan Medium" size="75" color="#f9f4f1">What?</font>
 
-84
-00:25:37,243 --> 00:25:38,983
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Oh, good morning.</font>
-
-85
-00:25:54,613 --> 00:25:55,523
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank you.</font>
-
-86
-00:26:02,873 --> 00:26:04,613
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's cold today.</font>
-
-87
-00:27:19,383 --> 00:27:21,073
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is that your new uniform?</font>
-
-88
-00:27:32,013 --> 00:27:33,503
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Time really flies, doesn't it?</font>
-
-89
-00:27:34,113 --> 00:27:35,983
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're already in high school, huh.</font>
-
-90
-00:27:35,983 --> 00:27:36,963
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yup.</font>
-
-91
-00:28:01,083 --> 00:28:02,423
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm looking forward to it.</font>
-
-92
-00:28:03,353 --> 00:28:08,133
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">In three years, when I graduate, I plan on looking for a job here.</font>
-
-93
-00:28:09,033 --> 00:28:12,203
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Then I can be with you more.</font>
-
-94
-00:28:21,533 --> 00:28:22,153
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Right?</font>
-
-95
-00:28:28,133 --> 00:28:28,933
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru.</font>
-
-96
-00:28:35,333 --> 00:28:36,923
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm not a spirit.</font>
-
-97
-00:28:37,943 --> 00:28:38,743
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But,</font>
-
-98
-00:28:49,393 --> 00:28:54,293
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'd only just been abandoned, so I cried helplessly{uh, what?}</font>
-
-99
-00:28:55,543 --> 00:28:58,933
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">as if to call back the parents who left me.</font>
-
-100
-00:29:01,363 --> 00:29:03,173
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">They say I didn't stop crying for a long time.</font>
-
-101
-00:29:33,003 --> 00:29:33,793
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru.</font>
-
-102
-00:29:44,833 --> 00:29:46,873
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If it touches a real human body,</font>
-
-103
-00:29:54,873 --> 00:29:56,483
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's just like snow, isn't it?</font>
-
-104
-00:30:09,103 --> 00:30:09,843
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin,</font>
-
-105
-00:30:10,703 --> 00:30:12,993
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">don't forget about me.</font>
-
-106
-00:30:28,883 --> 00:30:30,313
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">let's stay together.</font>
-
-107
-00:30:35,333 --> 00:30:37,023
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Spirit festival?</font>
-
-108
-00:30:51,283 --> 00:30:54,523
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But tonight, can you sneak out of your house?</font>
-
-109
-00:30:55,073 --> 00:30:57,343
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I've wanted to go with you for a long time.</font>
-
-110
-00:31:01,413 --> 00:31:04,203
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Meet me at eight at our usual place.</font>
-
-111
-00:31:12,323 --> 00:31:13,233
+48
+00:10:12,997 --> 00:10:14,187
 <font face="LTFinnegan Medium" size="75" color="#f9f4f1">Don't worry.</font>
 
-112
-00:31:13,693 --> 00:31:15,823
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">On the outside, it's not very different from a human festival.</font>
+49
+00:10:14,647 --> 00:10:16,097
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'll see you out of here again.</font>
 
-113
-00:31:16,423 --> 00:31:19,063
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's supposed to mimic human festivals, after all.</font>
+50
+00:11:18,207 --> 00:11:20,247
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Can I eat it?</font>
 
-114
-00:31:19,773 --> 00:31:22,253
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">And I'll protect you, Hotaru.</font>
+51
+00:11:22,127 --> 00:11:22,957
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">No.</font>
 
-115
-00:31:23,323 --> 00:31:27,523
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">When you say things that, it makes me want to glomp you.</font>
+52
+00:11:23,877 --> 00:11:24,747
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">She's my friend.</font>
 
-116
-00:31:27,523 --> 00:31:28,483
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Do it.</font>
+53
+00:11:25,237 --> 00:11:26,607
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is that so?</font>
 
-117
-00:31:29,843 --> 00:31:30,793
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Seriously.</font>
+54
+00:11:27,247 --> 00:11:28,637
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Human child.</font>
 
-118
-00:32:25,383 --> 00:32:26,193
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Who?</font>
+55
+00:11:43,657 --> 00:11:45,537
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Oh! Is that a fox?</font>
 
-119
-00:33:17,843 --> 00:33:18,723
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Here you go.</font>
+56
+00:11:52,087 --> 00:11:55,457
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">He transforms to scare people, but he's all bark and no bite.{He transforms to scare people, but he's actually cowardly and a good guy.}</font>
 
-120
-00:34:46,433 --> 00:34:49,353
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Wow, that was so weird!</font>
+57
+00:11:59,217 --> 00:12:01,007
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Amazing!</font>
 
-121
-00:35:03,653 --> 00:35:07,083
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I can no longer wait for summer to come around.</font>
+58
+00:12:05,467 --> 00:12:09,027
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Amazing! Incredible! Fantastic!</font>
 
-122
-00:35:57,563 --> 00:36:00,883
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>This is definitely our last...</i></font>
+59
+00:12:05,467 --> 00:12:09,027
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">{\an8}So what did you think I was?</font>
 
-123
-00:36:01,173 --> 00:36:02,563
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Wait!</font>
+60
+00:12:45,537 --> 00:12:50,077
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Those summer days, I ran and played all around the mountain.</i></font>
 
-124
-00:36:07,013 --> 00:36:08,143
+61
+00:12:53,877 --> 00:12:55,427
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Over here, over here!</font>
+
+62
+00:12:56,657 --> 00:12:58,497
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's better over there.</font>
+
+63
+00:13:03,497 --> 00:13:04,337
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank you!</font>
+
+64
+00:13:13,747 --> 00:13:15,387
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Even though it was silly,</i></font>
+
+65
+00:13:16,307 --> 00:13:18,117
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>it was so much fun.</i></font>
+
+66
+00:13:42,117 --> 00:13:45,137
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Did Gin fall asleep?</font>
+
+67
+00:14:22,127 --> 00:14:24,507
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm sorry, but</font>
+
+68
+00:14:36,577 --> 00:14:38,397
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If I don't wear this mask,</font>
+
+69
+00:14:39,087 --> 00:14:40,797
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I don't look like a spirit, do I?</font>
+
+70
+00:15:02,297 --> 00:15:03,677
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Um, Gin.</font>
+
+71
+00:15:05,127 --> 00:15:07,287
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I won't be able</font>
+
+72
+00:15:08,067 --> 00:15:09,967
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">to come here tomorrow.</font>
+
+73
+00:15:11,067 --> 00:15:12,887
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I told you about it before, right?</font>
+
+74
+00:15:27,007 --> 00:15:28,447
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Will you be able to come again next year?</font>
+
+75
+00:15:32,617 --> 00:15:33,457
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah!</font>
+
+76
+00:15:36,927 --> 00:15:38,447
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>This is how summer</i></font>
+
+77
+00:15:39,627 --> 00:15:42,427
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>became something I looked forward to.</i></font>
+
+78
+00:16:02,717 --> 00:16:04,247
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're weird.</font>
+
+79
+00:16:04,627 --> 00:16:06,527
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Of course the water is cold.</font>
+
+80
+00:16:27,097 --> 00:16:30,967
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If she touches you, you'll disappear.</font>
+
+81
+00:16:30,967 --> 00:16:31,967
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank you.</font>
+
+82
+00:16:33,137 --> 00:16:34,227
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm fine.</font>
+
+83
+00:16:41,457 --> 00:16:45,117
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Please don't touch him, human child.</font>
+
+84
+00:16:46,737 --> 00:16:47,377
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yes.</font>
+
+85
+00:17:10,237 --> 00:17:13,677
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Two summers passed. Then three. {the original line for this is really bad, plz2tlc}</i></font>
+
+86
+00:17:18,667 --> 00:17:19,537
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Where are you?</font>
+
+87
+00:17:28,687 --> 00:17:30,657
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">What're you doing?</font>
+
+88
+00:17:33,107 --> 00:17:36,707
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I wanted to see your startled face, but...</font>
+
+89
+00:17:42,707 --> 00:17:44,227
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">At least when I'm around,</font>
+
+90
+00:17:44,747 --> 00:17:47,367
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">can you take off your mask every once in a while?</font>
+
+91
+00:17:48,377 --> 00:17:49,217
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's fine,</font>
+
+92
+00:17:49,877 --> 00:17:51,467
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">but is there a reason?</font>
+
+93
+00:17:52,057 --> 00:17:54,567
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Not really, but—</font>
+
+94
+00:17:56,797 --> 00:17:57,477
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Watch out, Hota—</font>
+
+95
+00:18:10,037 --> 00:18:11,317
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That was close.</font>
+
+96
+00:18:14,027 --> 00:18:15,497
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah...</font>
+
+97
+00:18:17,597 --> 00:18:18,977
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm sorry, Hotaru.</font>
+
+98
+00:18:19,797 --> 00:18:20,807
 <font face="LTFinnegan Medium" size="75" color="#f9f4f1">Are you okay?</font>
 
+99
+00:18:25,447 --> 00:18:26,787
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank goodness.</font>
+
+100
+00:18:28,737 --> 00:18:29,777
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hey, Gin.</font>
+
+101
+00:18:55,917 --> 00:18:57,177
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">No matter what!</font>
+
+102
+00:19:05,397 --> 00:19:09,007
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>The next summer and the summer after that</i></font>
+
+103
+00:19:09,957 --> 00:19:12,287
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>I visited the forest.</i></font>
+
+104
+00:19:29,917 --> 00:19:30,897
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ta-da!</font>
+
+105
+00:19:31,587 --> 00:19:33,547
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I've become a fifth grader.</font>
+
+106
+00:19:36,517 --> 00:19:37,257
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Somehow,</font>
+
+107
+00:19:38,087 --> 00:19:39,827
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">you're starting to look like a woman.</font>
+
+108
+00:19:40,147 --> 00:19:42,327
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I <i>am</i> a woman.</font>
+
+109
+00:19:43,497 --> 00:19:44,367
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Shall we go?</font>
+
+110
+00:19:46,597 --> 00:19:47,357
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah.</font>
+
+111
+00:19:47,357 --> 00:19:48,047
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Huh?</i></font>
+
+112
+00:19:48,597 --> 00:19:49,587
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>This is...</i></font>
+
+113
+00:19:58,207 --> 00:19:58,837
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Huh?</font>
+
+114
+00:19:59,447 --> 00:20:00,267
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Nothing.</font>
+
+115
+00:20:01,057 --> 00:20:02,707
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Even though I'm in middle school now,</font>
+
+116
+00:20:19,297 --> 00:20:23,617
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Gin ages much more slowly than humans.</i></font>
+
+117
+00:20:30,437 --> 00:20:31,177
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Like this?</font>
+
+118
+00:20:32,117 --> 00:20:35,467
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah, yeah. When I start running, let go, okay?</font>
+
+119
+00:20:37,867 --> 00:20:39,397
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Here I go!</font>
+
+120
+00:22:02,337 --> 00:22:06,427
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Someday I'll be older than Gin, won't I?</i></font>
+
+121
+00:22:37,067 --> 00:22:38,427
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Oh, Hotaru.</font>
+
+122
+00:22:38,427 --> 00:22:40,337
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I cut some watermelon. Let's eat.</font>
+
+123
+00:22:40,607 --> 00:22:42,897
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Okay. Yay!</font>
+
+124
+00:22:56,767 --> 00:22:59,417
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">What time are you taking the bullet train tomorrow?</font>
+
 125
-00:36:25,823 --> 00:36:27,243
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Was that boy a human?</font>
+00:23:05,367 --> 00:23:06,347
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is that so?</font>
 
 126
-00:36:33,903 --> 00:36:34,713
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin!</font>
+00:23:09,187 --> 00:23:11,997
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">This summer's weather was good, so the watermelons are sweet.</font>
 
 127
-00:37:24,133 --> 00:37:25,443
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I love you, too.</font>
+00:23:14,217 --> 00:23:17,407
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If it continues like this, then winter will be freezing.</font>
 
 128
-00:37:47,893 --> 00:37:49,103
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Deep green.</i></font>
+00:23:18,477 --> 00:23:19,757
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is it like that?</font>
 
 129
-00:37:50,393 --> 00:37:52,173
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>This is the mountain god's forest.</i></font>
+00:23:20,687 --> 00:23:21,707
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's like that.</font>
 
 130
-00:37:59,703 --> 00:38:03,563
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">We wanted to be with Gin forever, but...</font>
+00:23:24,577 --> 00:23:28,997
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Since this area's located between mountains and the ocean's far away,</font>
 
 131
-00:38:14,063 --> 00:38:16,383
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>I probably won't be able to</i></font>
+00:23:28,997 --> 00:23:31,917
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">the temperature difference between summer and winter is huge.</font>
 
 132
-00:39:49,943 --> 00:39:55,873
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">The cicadas laugh out in song</font></font>
+00:23:52,777 --> 00:23:53,787
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">A scarf?</font>
 
 133
-00:39:56,773 --> 00:40:02,513
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}to the red evening sunset</font>
+00:23:54,367 --> 00:23:55,027
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yep!</font>
 
 134
-00:40:02,933 --> 00:40:09,753
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The way back home is long</font>
+00:23:55,537 --> 00:23:57,047
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Please use it in the winter, okay?</font>
 
 135
-00:40:20,653 --> 00:40:32,933
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The summer is in full bloom</font>
+00:23:59,667 --> 00:24:00,507
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Bye!</font>
 
 136
-00:41:01,973 --> 00:41:08,243
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}I thought the tale would never end</font>
+00:24:03,177 --> 00:24:03,907
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Okay.</font>
 
 137
-00:41:23,533 --> 00:41:30,543
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}and went somewhere far, far away</font>
+00:24:06,457 --> 00:24:07,957
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">See you next year!</font>
 
 138
-00:41:34,223 --> 00:41:46,763
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The summer flies by</font>
+00:24:58,837 --> 00:25:00,187
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're done?</font>
 
 139
-00:41:48,333 --> 00:42:01,233
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}to hide away its treasures till next year</font>
+00:25:00,427 --> 00:25:03,657
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ah, you probably ate before dinner, didn't you?</font>
 
 140
-00:42:49,143 --> 00:42:55,583
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}I'll never ever forget</font>
+00:25:03,657 --> 00:25:05,407
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If you snack, you'll gain weight.</font>
 
 141
-00:43:11,903 --> 00:43:18,193
+00:25:05,407 --> 00:25:07,027
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I didn't eat anything!</font>
+
+142
+00:25:07,027 --> 00:25:08,897
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Jeez. I'm gonna take a bath!</font>
+
+143
+00:25:39,357 --> 00:25:40,217
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Takegawa.</font>
+
+144
+00:25:42,037 --> 00:25:43,357
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ta-ke-ga-wa.</font>
+
+145
+00:25:44,757 --> 00:25:46,497
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Oh, good morning.</font>
+
+146
+00:25:46,797 --> 00:25:47,537
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Good morning.</font>
+
+147
+00:25:47,887 --> 00:25:50,527
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">There, near your feet. It's frozen.</font>
+
+148
+00:27:26,897 --> 00:27:28,587
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is that your new uniform?</font>
+
+149
+00:27:29,027 --> 00:27:29,757
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah.</font>
+
+150
+00:28:08,597 --> 00:28:09,937
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm looking forward to it.</font>
+
+151
+00:28:10,867 --> 00:28:15,647
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">In three years, when I graduate, I plan on looking for a job here.</font>
+
+152
+00:28:16,547 --> 00:28:19,717
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Then I can be with you more.</font>
+
+153
+00:28:21,227 --> 00:28:22,057
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">In autumn,</font>
+
+154
+00:28:23,117 --> 00:28:23,967
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">winter,</font>
+
+155
+00:28:25,167 --> 00:28:26,087
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">spring...</font>
+
+156
+00:28:27,177 --> 00:28:28,167
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Always.</font>
+
+157
+00:28:29,047 --> 00:28:29,667
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Right?</font>
+
+158
+00:28:35,647 --> 00:28:36,447
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru.</font>
+
+159
+00:28:38,047 --> 00:28:40,897
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Let me tell you about myself.</font>
+
+160
+00:28:42,847 --> 00:28:44,437
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm not a spirit.</font>
+
+161
+00:28:45,457 --> 00:28:46,257
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But,</font>
+
+162
+00:28:47,517 --> 00:28:48,997
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm no longer human.</font>
+
+163
+00:28:50,227 --> 00:28:52,177
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It seems like I was once a human,</font>
+
+164
+00:28:52,177 --> 00:28:53,797
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">but when I was a baby,</font>
+
+165
+00:29:03,057 --> 00:29:06,447
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">as if to call back the parents who left me.</font>
+
+166
+00:29:08,877 --> 00:29:10,687
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">They say I didn't stop crying for a long time.</font>
+
+167
+00:29:40,517 --> 00:29:41,307
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru.</font>
+
+168
+00:29:52,347 --> 00:29:54,387
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If it touches a real human body,</font>
+
+169
+00:30:02,387 --> 00:30:03,997
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's just like snow, isn't it?</font>
+
+170
+00:30:05,107 --> 00:30:06,737
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin,</font>
+
+171
+00:30:07,867 --> 00:30:11,197
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I thought of you during winter.</font>
+
+172
+00:30:12,247 --> 00:30:13,097
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Even during autumn</font>
+
+173
+00:30:14,207 --> 00:30:15,197
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">and spring.</font>
+
+174
+00:30:16,617 --> 00:30:17,357
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin,</font>
+
+175
+00:30:18,217 --> 00:30:20,507
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">don't forget about me.</font>
+
+176
+00:30:25,927 --> 00:30:30,077
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Time might separate us some day.</font>
+
+177
+00:30:31,037 --> 00:30:31,517
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But,</font>
+
+178
+00:30:32,577 --> 00:30:33,517
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">even still,</font>
+
+179
+00:30:49,527 --> 00:30:51,537
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">The nuance is completely different!</font>
+
+180
+00:30:52,067 --> 00:30:53,227
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Nuance?</font>
+
+181
+00:30:54,147 --> 00:30:58,047
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">When you were little, I thought you might get scared, so I didn't invite you.</font>
+
+182
+00:30:58,797 --> 00:31:02,037
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But tonight, can you sneak out of your house?</font>
+
+183
+00:31:02,587 --> 00:31:04,857
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I've wanted to go with you for a long time.</font>
+
+184
+00:31:06,977 --> 00:31:08,927
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I-I want to go!</font>
+
+185
+00:31:08,927 --> 00:31:11,717
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Meet me at eight at our usual place.</font>
+
+186
+00:31:12,217 --> 00:31:16,857
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But a festival filled with spirits sounds a little unnerving...</font>
+
+187
+00:31:17,267 --> 00:31:18,907
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">On top of that, it's at night.</font>
+
+188
+00:31:19,837 --> 00:31:20,747
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Don't worry.</font>
+
+189
+00:31:35,037 --> 00:31:35,997
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Do it.</font>
+
+190
+00:31:37,357 --> 00:31:38,307
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Seriously.</font>
+
+191
+00:32:17,747 --> 00:32:21,377
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's true. It's just like a human festival.</font>
+
+192
+00:32:21,967 --> 00:32:23,767
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Are they all disguised as humans?</font>
+
+193
+00:32:32,897 --> 00:32:33,707
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Who?</font>
+
+194
+00:32:37,847 --> 00:32:38,687
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru.</font>
+
+195
+00:32:48,517 --> 00:32:50,427
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's just like going on a date!</font>
+
+196
+00:32:51,277 --> 00:32:53,027
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">This <i>is</i> a date.</font>
+
+197
+00:34:34,487 --> 00:34:36,427
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I-I'm sorry!</font>
+
+198
+00:34:53,947 --> 00:34:56,867
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Wow, that was so weird!</font>
+
+199
+00:35:11,167 --> 00:35:14,597
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I can no longer wait for summer to come around.</font>
+
+200
+00:35:46,787 --> 00:35:47,707
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That mask...</font>
+
+201
+00:35:48,617 --> 00:35:49,407
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Have it.</font>
+
+202
+00:35:56,117 --> 00:36:02,647
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>He probably won't come to that place next summer.</i></font>
+
+203
+00:36:05,077 --> 00:36:08,397
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>This is definitely our last...</i></font>
+
+204
+00:36:14,527 --> 00:36:15,657
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Are you okay?</font>
+
+205
+00:36:15,837 --> 00:36:17,627
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah. Thank you!</font>
+
+206
+00:36:18,297 --> 00:36:19,757
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Be careful, okay?</font>
+
+207
+00:37:28,047 --> 00:37:29,027
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I love you.</font>
+
+208
+00:37:29,777 --> 00:37:30,477
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah.</font>
+
+209
+00:37:55,407 --> 00:37:56,617
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Deep green.</i></font>
+
+210
+00:37:57,907 --> 00:37:59,687
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>This is the mountain god's forest.</i></font>
+
+211
+00:38:04,147 --> 00:38:06,837
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru. Thank you.</font>
+
+212
+00:38:07,217 --> 00:38:11,077
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">We wanted to be with Gin forever, but...</font>
+
+213
+00:38:11,077 --> 00:38:16,317
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin wanted to touch a human.</font>
+
+214
+00:38:16,737 --> 00:38:20,727
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">He finally got to be hugged by a human.</font>
+
+215
+00:38:21,577 --> 00:38:23,897
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>I probably won't be able to</i></font>
+
+216
+00:38:26,247 --> 00:38:28,827
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>look forward to summer for a long time.</i></font>
+
+217
+00:38:29,687 --> 00:38:30,987
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>My chest will hurt.</i></font>
+
+218
+00:38:31,747 --> 00:38:33,237
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>My tears will be overflowing.</i></font>
+
+219
+00:38:34,487 --> 00:38:42,987
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>But this warmth in my hands and these summer memories will live on in my heart.</i></font>
+
+220
+00:38:50,657 --> 00:38:52,447
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>So, let's go.</i></font>
+
+221
+00:39:31,157 --> 00:39:31,167
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">{ED}</font>
+
+222
+00:39:37,607 --> 00:44:26,927
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">{\an7}<font color="#000000">m 1920 960 l 1920 1080 l 0 1080 l 0 960 l 1920 960 {p0}</font></font>
+
+223
+00:39:57,457 --> 00:40:03,387
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">The cicadas laugh out in song</font></font>
+
+224
+00:40:04,287 --> 00:40:10,027
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}to the red evening sunset</font>
+
+225
+00:40:10,447 --> 00:40:17,267
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The way back home is long</font>
+
+226
+00:40:18,127 --> 00:40:24,417
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}but I promised to come here again tomorrow</font>
+
+227
+00:40:28,167 --> 00:40:40,447
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The summer is in full bloom</font>
+
+228
+00:41:09,487 --> 00:41:15,757
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}I thought the tale would never end</font>
+
+229
+00:41:16,777 --> 00:41:22,557
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}but I realize now that something comes after</font>
+
+230
+00:41:23,277 --> 00:41:30,107
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The crows too took flight</font>
+
+231
+00:41:31,047 --> 00:41:38,057
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}and went somewhere far, far away</font>
+
+232
+00:41:41,737 --> 00:41:54,277
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The summer flies by</font>
+
+233
+00:41:55,847 --> 00:42:08,747
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}to hide away its treasures till next year</font>
+
+234
+00:42:56,657 --> 00:43:03,097
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}I'll never ever forget</font>
+
+235
+00:43:04,377 --> 00:43:10,577
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}those golden summer days</font>
+
+236
+00:43:11,247 --> 00:43:18,127
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}That summer which brought joy</font>
+
+237
+00:43:19,417 --> 00:43:25,707
 <font face="Goodfish" size="80" color="#f9f4f1">{\an3}to my boring everyday life</font>
+
+238
+00:43:31,397 --> 00:43:44,497
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}And look! Summer is here again</font>
+
+239
+00:44:12,597 --> 00:44:25,417
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}making you look more beautiful than ever</font>
 
