@@ -1,924 +1,926 @@
 1
-00:00:45,773 --> 00:00:47,153
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">There we go...</font>
+00:00:56,307 --> 00:00:59,227
+Tu fais bien tout ce que dit ton oncle.
 
 2
-00:00:48,773 --> 00:00:51,683
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Make sure you listen to your uncle.</font>
+00:00:59,227 --> 00:01:00,317
+Ouais.
 
 3
-00:00:51,683 --> 00:00:52,853
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah.</font>
+00:01:00,317 --> 00:01:02,317
+Tu as tes mouchoirs ? Et ton billet ?
 
 4
-00:00:52,853 --> 00:00:54,733
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Do you have your handkerchief? Your ticket?</font>
+00:01:02,317 --> 00:01:04,437
+Et une jolie paire de chaussures ?
 
 5
-00:00:54,733 --> 00:00:56,853
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">A nice pair of shoes?</font>
+00:01:04,437 --> 00:01:05,987
+Attends, ne me dis pas que c'est tout ?
 
 6
-00:01:08,173 --> 00:01:11,643
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Jeez. I've been going there every year, so I'll be all right.</font>
+00:01:05,987 --> 00:01:08,047
+C'est bon. J'ai fait attention à prendre les noires.
 
 7
-00:01:49,623 --> 00:01:51,713
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>The first time I met him</i></font>
+00:01:08,957 --> 00:01:11,787
+Fais attention à ne pas oublier tes affaires dans le Shinkansen, d'accord ?
 
 8
-00:02:12,313 --> 00:02:14,483
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>which was said to be where spirits lived.</i></font>
+00:01:11,787 --> 00:01:13,797
+Ne flanne pas et ne rate pas ta gare.
 
 9
-00:02:28,473 --> 00:02:30,933
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>he appeared before me.</i></font>
+00:01:14,047 --> 00:01:15,307
+Oui, je sais !
 
 10
-00:03:00,763 --> 00:03:04,153
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's a person! I'm saved!</font>
+00:01:22,727 --> 00:01:24,037
+C'est bon !
 
 11
-00:03:17,203 --> 00:03:18,673
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">S-Sorry.</font>
+00:01:24,037 --> 00:01:25,057
+Ça ira.
 
 12
-00:03:20,643 --> 00:03:23,883
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're a human child, right?</font>
+00:01:27,637 --> 00:01:28,967
+J'y vais !
 
 13
-00:03:25,073 --> 00:03:28,353
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If a human touches me, I'll disappear.</font>
+00:01:57,177 --> 00:01:59,227
+<i>La première fois que je l'ai rencontré,</i>
 
 14
-00:03:36,903 --> 00:03:39,663
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm... something that lives in this forest.</font>
+00:02:14,047 --> 00:02:15,957
+<i>Par une chaude journée d'été,</i>
 
 15
-00:03:41,383 --> 00:03:44,083
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">What? Then... you're one of the spirits?</font>
+00:02:15,957 --> 00:02:19,267
+<i>je me suis perdue dans la forêt du dieu de la montagne,</i>
 
 16
-00:03:45,233 --> 00:03:48,913
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But... what do you mean by disappear?</font>
+00:02:19,817 --> 00:02:22,137
+<i>dont on disait qu'elle était habitée par les esprits.</i>
 
 17
-00:04:13,623 --> 00:04:16,933
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Y-You're really not human after all...</font>
+00:03:08,277 --> 00:03:11,667
+Une personne ! Je suis sauvée !
 
 18
-00:04:31,273 --> 00:04:35,283
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's the spell that the mountain god placed upon me.</font>
+00:03:24,737 --> 00:03:26,177
+Désolé...
 
 19
-00:04:36,993 --> 00:04:38,933
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If I get touched by a human,</font>
+00:03:38,467 --> 00:03:40,497
+Si un humain...
 
 20
-00:04:40,443 --> 00:04:41,753
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">that's the end.</font>
+00:03:41,077 --> 00:03:43,327
+Tu n'es pas un humain?
 
 21
-00:04:55,253 --> 00:04:56,953
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'll lead you out of the forest.</font>
+00:03:44,457 --> 00:03:47,217
+Je suis quelque chose qui vit dans cette forêt.
 
 22
-00:04:59,193 --> 00:05:00,813
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank you!</font>
+00:04:38,867 --> 00:04:42,817
+C'est le sort que m'a jeté le dieu de la montagne.
 
 23
-00:05:36,593 --> 00:05:39,483
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You... aren't afraid.</font>
+00:04:44,557 --> 00:04:46,467
+Si je suis touché par un humain,
 
 24
-00:05:43,403 --> 00:05:44,163
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Never mind.</font>
+00:05:02,817 --> 00:05:04,697
+Je vais t'emmener hors de la forêt.
 
 25
-00:05:48,163 --> 00:05:50,893
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If you go straight, you'll hit the mountain path.</font>
+00:05:06,697 --> 00:05:08,327
+Merci !
 
 26
-00:05:52,203 --> 00:05:52,913
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Bye.</font>
+00:05:13,007 --> 00:05:14,297
+Je ne viens pas de te le dire ?
 
 27
-00:05:54,473 --> 00:05:56,733
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Are you always going to be here?</font>
+00:05:14,297 --> 00:05:17,087
+Désolée, j'ai juste...
 
 28
-00:05:57,583 --> 00:05:59,583
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If I come back here, can we meet again?</font>
+00:06:08,207 --> 00:06:10,947
+Ceci est la forêt où vivent les esprits et le dieu de la montagne.
 
 29
-00:06:00,683 --> 00:06:03,363
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">This is the forest where the mountain god and spirits live.</font>
+00:06:12,367 --> 00:06:15,057
+Pose un pied ici, tu perdras ton chemin et tu seras perdue à jamais.
 
 30
-00:06:04,873 --> 00:06:07,463
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Set foot within, and you'll lose your way and be lost forever.</font>
+00:06:16,707 --> 00:06:18,027
+Tu ne devrais pas venir ici.
 
 31
-00:06:09,183 --> 00:06:10,433
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You shouldn't come here.</font>
+00:06:19,017 --> 00:06:21,107
+C'est ce que les gens du village disent, n'est-ce pas ?
 
 32
-00:06:11,473 --> 00:06:13,603
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's what the villagers say, right?</font>
+00:06:28,447 --> 00:06:29,117
+Et toi ?
 
 33
-00:06:20,903 --> 00:06:21,603
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You?</font>
+00:06:49,097 --> 00:06:52,777
+Quoi qu'il en soit, je reviendrai demain avec un cadeau de remerciement !
 
 34
-00:06:41,523 --> 00:06:45,193
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Anyway, I'll be back tomorrow with a thank-you present!</font>
+00:07:43,747 --> 00:07:47,067
+La forêt du dieu de la montagne ?
+Qui sait ?
 
 35
-00:06:45,193 --> 00:06:46,003
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Bye!</font>
+00:07:53,987 --> 00:07:58,937
+Quand j'étais jeune, je voulais rencontrer les esprits,
+donc mes amis et moi allions souvent dans la forêt.
 
 36
-00:07:30,213 --> 00:07:31,133
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Uncle.</font>
+00:08:18,697 --> 00:08:23,237
+Mais c'est impossible que les gens du village aient organisé un festival là-bas.
 
 37
-00:07:31,133 --> 00:07:32,113
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Huh?</font>
+00:08:23,237 --> 00:08:26,137
+Mais alors, par qui avait été organisé ce festival ?
 
 38
-00:08:11,153 --> 00:08:15,323
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But there's no way the villagers would've held a festival in the forest.</font>
+00:08:35,287 --> 00:08:38,247
+Ah, que de souvenirs !
 
 39
-00:08:15,763 --> 00:08:18,443
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">So then, whose festival could it have been?</font>
+00:08:38,247 --> 00:08:41,497
+On était vraiment idiots quand nous étions enfants.
 
 40
-00:09:35,173 --> 00:09:36,053
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You came.</font>
+00:09:12,347 --> 00:09:14,947
+<i>Ceci est la forêt où vivent les esprits et le dieu de la montagne.</i>
 
 41
-00:09:56,703 --> 00:09:57,883
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Sorry.</font>
+00:09:16,467 --> 00:09:18,537
+<i>Pose un pied ici, tu perdras ton chemin et tu seras perdue à jamais.</i>
 
 42
-00:10:00,213 --> 00:10:01,283
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's a bit hot here.</font>
+00:09:42,727 --> 00:09:43,557
+Tu es venue.
 
 43
-00:10:02,123 --> 00:10:03,583
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Shall we go somewhere cooler?</font>
+00:09:46,107 --> 00:09:48,567
+Je ne pensais pas que tu reviendrais vraiment.
 
 44
-00:10:03,943 --> 00:10:04,573
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">What?</font>
+00:09:59,317 --> 00:10:01,587
+Tu n'apprends donc jamais, n'est ce pas ?
 
 45
-00:10:05,483 --> 00:10:06,673
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Don't worry.</font>
+00:10:02,267 --> 00:10:04,257
+J'étais tellement heureuse, alors...
 
 46
-00:10:07,133 --> 00:10:08,583
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'll see you out of here again.</font>
+00:10:04,257 --> 00:10:05,447
+Désolée.
 
 47
-00:11:21,643 --> 00:11:24,513
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Please don't touch Gin's skin.</font>
+00:10:07,757 --> 00:10:08,957
+Il fait un peu chaud ici.
 
 48
-00:11:25,593 --> 00:11:30,753
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If you do, I'll eat you!</font>
+00:10:09,667 --> 00:10:11,087
+Est-ce qu'on devrait aller à un endroit plus frais ?
 
 49
-00:11:36,143 --> 00:11:38,023
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Oh! Is that a fox?</font>
+00:10:11,487 --> 00:10:12,187
+Quoi ?
 
 50
-00:11:41,893 --> 00:11:43,013
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">He's another one of the spirits.</font>
+00:10:13,067 --> 00:10:14,287
+Ne t'inquiète pas.
 
 51
-00:11:44,573 --> 00:11:47,943
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">He transforms to scare people, but he's all bark and no bite.{He transforms to scare people, but he's actually cowardly and a good guy.}</font>
+00:10:14,717 --> 00:10:16,237
+Je t'aiderai encore à repartir.
 
 52
-00:11:51,703 --> 00:11:53,493
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Amazing!</font>
+00:11:18,287 --> 00:11:20,237
+Je peux la manger ?
 
 53
-00:11:57,953 --> 00:12:01,513
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Amazing! Incredible! Fantastic!</font>
+00:11:22,187 --> 00:11:23,067
+Non.
 
 54
-00:11:57,953 --> 00:12:01,513
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">{\an8}So what did you think I was?</font>
+00:11:23,877 --> 00:11:24,747
+C'est mon amie.
 
 55
-00:12:14,233 --> 00:12:15,343
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Never mind me.</font>
+00:11:25,187 --> 00:11:26,647
+Ah bon.
 
 56
-00:12:46,363 --> 00:12:47,913
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Over here, over here!</font>
+00:11:27,247 --> 00:11:28,507
+Enfant humaine.
 
 57
-00:12:49,143 --> 00:12:50,983
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's better over there.</font>
+00:11:29,217 --> 00:11:31,877
+Ne touche pas la peau de Gin, s'il te plaît.
 
 58
-00:13:34,603 --> 00:13:37,623
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Did Gin fall asleep?</font>
+00:11:33,177 --> 00:11:38,257
+Si tu le touches, je te mangerai !
 
 59
-00:14:05,813 --> 00:14:08,093
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ah, sorry!</font>
+00:11:44,717 --> 00:11:45,687
+C'est un renard ?
 
 60
-00:14:08,093 --> 00:14:09,493
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ouch!</font>
+00:12:05,467 --> 00:12:09,377
+Étonnant ! Incroyable ! Fantastique !
 
 61
-00:14:14,613 --> 00:14:16,993
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm sorry, but</font>
+00:12:05,467 --> 00:12:09,377
+Mais tu pensais que j'étais quoi ?
 
 62
-00:14:26,203 --> 00:14:28,063
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Why are you wearing that mask?</font>
+00:12:21,767 --> 00:12:22,967
+Ne pense plus à moi.
 
 63
-00:14:29,063 --> 00:14:30,883
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If I don't wear this mask,</font>
+00:12:23,417 --> 00:12:24,807
+Parle-moi de toi.
 
 64
-00:14:31,573 --> 00:14:33,283
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I don't look like a spirit, do I?</font>
+00:12:26,887 --> 00:12:27,807
+Tu es curieux ?
 
 65
-00:14:45,123 --> 00:14:46,373
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're weird.</font>
+00:12:29,437 --> 00:12:30,807
+C'est pour ça que je t'ai attendu.
 
 66
-00:15:09,663 --> 00:15:13,253
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">So I have to go home tomorrow.</font>
+00:12:53,887 --> 00:12:55,527
+Par ici, par ici !
 
 67
-00:15:32,113 --> 00:15:34,913
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>became something I looked forward to.</i></font>
+00:13:03,547 --> 00:13:04,597
+Merci !
 
 68
-00:15:45,473 --> 00:15:49,963
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Gin waited for our promised summer.</i></font>
+00:13:13,787 --> 00:13:15,427
+<i>Même si c'était stupide,</i>
 
 69
-00:15:51,543 --> 00:15:53,313
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's cold!</font>
+00:13:42,217 --> 00:13:45,137
+Gin, est-ce que tu dors ?
 
 70
-00:15:55,203 --> 00:15:56,733
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're weird.</font>
+00:14:18,067 --> 00:14:19,937
+Attaquer les gens quand ils dorment...
 
 71
-00:15:57,113 --> 00:15:59,013
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Of course the water is cold.</font>
+00:14:19,937 --> 00:14:22,227
+tu es une jeune fille bien effrayante.
 
 72
-00:16:56,583 --> 00:17:00,923
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">The spirits can touch him, right?</font>
+00:14:22,227 --> 00:14:24,507
+Désolée, mais...
 
 73
-00:17:07,643 --> 00:17:08,613
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru!</font>
+00:14:25,267 --> 00:14:27,297
+tu faisais semblant de dormir, n'est-ce pas ?
 
 74
-00:17:11,153 --> 00:17:12,023
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Where are you?</font>
+00:14:29,927 --> 00:14:31,387
+J'avais l'air normal, non ?
 
 75
-00:17:14,833 --> 00:17:15,713
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru.</font>
+00:14:33,717 --> 00:14:35,657
+Pourquoi est-ce que tu portes ce masque ?
 
 76
-00:17:21,173 --> 00:17:23,143
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">What're you doing?</font>
+00:14:36,647 --> 00:14:38,397
+Si je ne porte pas ce masque,
 
 77
-00:17:35,193 --> 00:17:36,713
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">At least when I'm around,</font>
+00:14:39,137 --> 00:14:40,917
+je n'ai pas l'air d'un esprit, n'est-ce pas ?
 
 78
-00:17:37,233 --> 00:17:39,853
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">can you take off your mask every once in a while?</font>
+00:14:52,607 --> 00:14:53,987
+Tu es bizarre.
 
 79
-00:17:40,863 --> 00:17:41,703
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's fine,</font>
+00:15:27,037 --> 00:15:28,457
+Tu pourras revenir l'année prochaine ?
 
 80
-00:17:42,363 --> 00:17:43,953
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">but is there a reason?</font>
+00:15:39,657 --> 00:15:42,627
+<i>devint un moment de l'année que j'attendais beaucoup.</i>
 
 81
-00:17:44,543 --> 00:17:47,053
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Not really, but—</font>
+00:15:53,007 --> 00:15:57,477
+<i>Gin attendait l'été, comme promis.</i>
 
 82
-00:18:02,523 --> 00:18:03,803
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That was close.</font>
+00:15:59,167 --> 00:16:00,957
+C'est froid !
 
 83
-00:18:06,513 --> 00:18:07,983
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah...</font>
+00:16:02,697 --> 00:16:04,557
+Tu es bizarre.
 
 84
-00:18:10,083 --> 00:18:11,463
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm sorry, Hotaru.</font>
+00:16:04,557 --> 00:16:06,527
+Bien sûr que l'eau est froide.
 
 85
-00:18:12,283 --> 00:18:13,293
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Are you okay?</font>
+00:16:19,257 --> 00:16:19,787
+Gin !
 
 86
-00:18:26,593 --> 00:18:32,003
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">No matter what, don't ever touch me, okay?</font>
+00:16:23,007 --> 00:16:24,867
+C'est dangereux, Gin.
 
 87
-00:18:37,423 --> 00:18:38,093
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Okay?</font>
+00:16:56,807 --> 00:16:57,897
+Gin.
 
 88
-00:18:48,403 --> 00:18:49,663
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">No matter what!</font>
+00:16:59,107 --> 00:17:00,157
+Sois prudent.
 
 89
-00:19:14,373 --> 00:19:16,093
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm leaving!</font>
+00:17:04,097 --> 00:17:08,467
+Les esprits peuvent le toucher, c'est ça ?
 
 90
-00:19:29,003 --> 00:19:29,743
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Somehow,</font>
+00:17:42,737 --> 00:17:44,337
+Au moins quand je suis là,
 
 91
-00:19:39,083 --> 00:19:39,843
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah.</font>
+00:17:44,737 --> 00:17:47,447
+tu pourrais retirer ton masque parfois ?
 
 92
-00:19:39,843 --> 00:19:40,533
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Huh?</i></font>
+00:17:48,467 --> 00:17:49,217
+D'accord,
 
 93
-00:19:41,083 --> 00:19:42,073
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>This is...</i></font>
+00:17:49,887 --> 00:17:51,467
+mais y a-t-il une raison ?
 
 94
-00:19:55,193 --> 00:20:00,313
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">a lot of my elementary school friends are in the same classes, so it doesn't really feel like anything changed.</font>
+00:17:52,107 --> 00:17:54,647
+Pas vraiment, mais...
 
 95
-00:20:00,313 --> 00:20:04,073
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">{\an8}<i>Our ages are gradually getting closer.</i></font>
+00:18:10,057 --> 00:18:11,497
+C'est pas passé loin.
 
 96
-00:20:00,853 --> 00:20:02,923
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But rather than that...</font>
+00:18:14,057 --> 00:18:15,487
+Ouais...
 
 97
-00:20:11,783 --> 00:20:16,103
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Gin ages much more slowly than humans.</i></font>
+00:18:17,657 --> 00:18:18,947
+Je suis désolé, Hotaru.
 
 98
-00:20:22,923 --> 00:20:23,663
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Like this?</font>
+00:18:19,887 --> 00:18:20,947
+Est-ce que ça va ?
 
 99
-00:20:24,603 --> 00:20:27,953
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah, yeah. When I start running, let go, okay?</font>
+00:18:34,127 --> 00:18:35,477
+Peu importe ce qui arrive,
 
 100
-00:20:30,353 --> 00:20:31,883
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Here I go!</font>
+00:18:36,027 --> 00:18:39,517
+ne me touche jamais, d'accord ?
 
 101
-00:21:06,293 --> 00:21:11,503
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>As the years go by, my appearance changes,</i></font>
+00:18:55,967 --> 00:18:57,527
+Tu me le jures ?
 
 102
-00:21:54,823 --> 00:21:58,913
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Someday I'll be older than Gin, won't I?</i></font>
+00:19:05,457 --> 00:19:09,217
+<i>L'été suivant et aussi l'été d'après,</i>
 
 103
-00:22:29,553 --> 00:22:30,913
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Oh, Hotaru.</font>
+00:19:09,917 --> 00:19:12,427
+<i>j'ai parcouru la forêt.</i>
 
 104
-00:22:30,913 --> 00:22:32,823
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I cut some watermelon. Let's eat.</font>
+00:19:21,867 --> 00:19:23,707
+J'y vais !
 
 105
-00:22:33,093 --> 00:22:35,383
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Okay. Yay!</font>
+00:19:26,347 --> 00:19:28,637
+Gin ! Je suis encore là cette année.
 
 106
-00:22:41,083 --> 00:22:42,093
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Where's Mom?</font>
+00:19:36,617 --> 00:19:37,507
+En fait,
 
 107
-00:22:57,853 --> 00:22:58,833
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is that so?</font>
+00:19:38,087 --> 00:19:40,137
+tu commences à ressembler à une femme.
 
 108
-00:23:13,173 --> 00:23:14,193
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's like that.</font>
+00:19:40,137 --> 00:19:42,327
+<i>Je suis une femme.</i>
 
 109
-00:23:17,063 --> 00:23:21,483
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Since this area's located between mountains and the ocean's far away,</font>
+00:19:46,637 --> 00:19:47,457
+Oui.
 
 110
-00:23:21,483 --> 00:23:24,403
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">the temperature difference between summer and winter is huge.</font>
+00:19:47,457 --> 00:19:48,187
+<i>Tiens ?</i>
 
 111
-00:23:25,103 --> 00:23:28,493
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">The cold of a winter that follows an especially hot summer</font>
+00:19:48,637 --> 00:19:49,577
+<i>C'est...</i>
 
 112
-00:23:28,873 --> 00:23:32,773
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">could probably freeze the mountain god himself.</font>
+00:19:58,207 --> 00:19:58,907
+Hein ?
 
 113
-00:23:45,263 --> 00:23:46,273
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">A scarf?</font>
+00:19:59,517 --> 00:20:00,427
+Rien.
 
 114
-00:23:46,853 --> 00:23:47,513
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yep!</font>
+00:20:02,777 --> 00:20:06,297
+beaucoup de mes amis de l'école primaire sont dans ma classe,
 
 115
-00:23:48,023 --> 00:23:49,533
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Please use it in the winter, okay?</font>
+00:20:06,297 --> 00:20:07,957
+alors ça ne donne pas l'impression que ça a changé.
 
 116
-00:23:58,943 --> 00:24:00,443
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">See you next year!</font>
+00:20:07,957 --> 00:20:10,607
+Mais plutôt que ça...
 
 117
-00:24:16,353 --> 00:24:17,253
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Takegawa?</font>
+00:20:07,957 --> 00:20:11,597
+Nos âges commençaient à se rapprocher.
 
 118
-00:24:17,883 --> 00:24:20,243
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Shouldn't you be heading to your next class soon?</font>
+00:20:17,877 --> 00:20:18,787
+<i>On dirait</i>
 
 119
-00:24:20,873 --> 00:24:22,563
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ah, you're right!</font>
+00:20:32,127 --> 00:20:33,167
+Ouais, ouais.
 
 120
-00:24:22,563 --> 00:24:24,153
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Everyone left already.</font>
+00:20:33,167 --> 00:20:35,467
+Quand je commence à courir, lâche-le, d'accord ?
 
 121
-00:24:24,153 --> 00:24:25,703
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'll see you later.</font>
+00:21:17,157 --> 00:21:19,057
+<i>mon apparence changeait,</i>
 
 122
-00:24:25,703 --> 00:24:27,433
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Okay! Thanks.</font>
+00:21:20,577 --> 00:21:24,357
+<i>mais Gin était resté quasiment le même que lorsque que l'on s'était rencontré.</i>
 
 123
-00:24:49,343 --> 00:24:50,353
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank you for the food.</font>
+00:22:02,457 --> 00:22:06,547
+<i>Un jour, je serai plus vieille que Gin, n'est-ce pas ?</i>
 
 124
-00:24:50,353 --> 00:24:50,923
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">What?</font>
+00:23:00,467 --> 00:23:01,587
+Je ne sais pas,
 
 125
-00:24:51,323 --> 00:24:52,673
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're done?</font>
+00:23:01,587 --> 00:23:04,317
+mais elles ont dit qu'on sera là jusqu'en fin d'après-midi.
 
 126
-00:24:52,913 --> 00:24:56,143
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ah, you probably ate before dinner, didn't you?</font>
+00:23:14,287 --> 00:23:17,537
+Si ça continue comme ça, l'hiver sera rude.
 
 127
-00:24:56,143 --> 00:24:57,893
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If you snack, you'll gain weight.</font>
+00:23:18,457 --> 00:23:19,377
+C'est comme ça ?
 
 128
-00:24:57,893 --> 00:24:59,513
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I didn't eat anything!</font>
+00:23:20,787 --> 00:23:21,877
+C'est comme ça.
 
 129
-00:25:37,243 --> 00:25:38,983
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Oh, good morning.</font>
+00:23:24,657 --> 00:23:29,027
+Vu que cet endroit est situé entre les montagnes et que l'océan est éloigné,
 
 130
-00:25:48,453 --> 00:25:49,923
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You'll slip. It's dangerous.</font>
+00:23:29,027 --> 00:23:32,017
+la différence de température entre l'été et l'hiver est élevée.
 
 131
-00:25:54,613 --> 00:25:55,523
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank you.</font>
+00:23:32,717 --> 00:23:36,387
+Un été particulièrement chaud suivi d'un hiver glacial
 
 132
-00:26:02,873 --> 00:26:04,613
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's cold today.</font>
+00:23:36,387 --> 00:23:40,417
+pourrait sûrement geler le dieu de la montagne lui-même.
 
 133
-00:26:06,443 --> 00:26:10,303
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Haven't you been a little out of it lately?</font>
+00:23:52,787 --> 00:23:54,037
+Une écharpe ?
 
 134
-00:26:10,763 --> 00:26:13,823
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Actually, you've always been that way, but...</font>
+00:24:03,237 --> 00:24:03,957
+Oui.
 
 135
-00:26:15,543 --> 00:26:16,523
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>I want to</i></font>
+00:24:06,487 --> 00:24:08,007
+À l'année prochaine !
 
 136
-00:26:18,683 --> 00:26:19,883
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>see Gin.</i></font>
+00:24:23,917 --> 00:24:24,967
+Takegawa ?
 
 137
-00:26:49,663 --> 00:26:50,823
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>touch Gin.</i></font>
+00:24:25,417 --> 00:24:28,027
+Ne devrais-tu pas te diriger vers ta prochaine salle ?
 
 138
-00:27:19,383 --> 00:27:21,073
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is that your new uniform?</font>
+00:24:33,297 --> 00:24:35,007
+D'accord ! Merci.
 
 139
-00:27:21,513 --> 00:27:22,243
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah.</font>
+00:24:56,847 --> 00:24:57,957
+Merci pour le repas.
 
 140
-00:27:32,013 --> 00:27:33,503
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Time really flies, doesn't it?</font>
+00:24:57,957 --> 00:24:58,437
+Quoi ?
 
 141
-00:27:34,113 --> 00:27:35,983
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're already in high school, huh.</font>
+00:24:58,777 --> 00:25:00,187
+Tu n'en veux plus ?
 
 142
-00:27:35,983 --> 00:27:36,963
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yup.</font>
+00:25:49,687 --> 00:25:50,647
+C'est gelé.
 
 143
-00:27:46,673 --> 00:27:49,103
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You don't come running at me anymore these days.</font>
+00:25:55,967 --> 00:25:57,537
+Tu vas glisser. C'est dangereux.
 
 144
-00:27:49,103 --> 00:27:53,373
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I learned my lesson after all those beatings.</font>
+00:26:02,197 --> 00:26:03,117
+Merci.
 
 145
-00:28:09,033 --> 00:28:12,203
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Then I can be with you more.</font>
+00:26:23,087 --> 00:26:24,107
+<i>Je veux</i>
 
 146
-00:28:19,663 --> 00:28:20,653
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Always.</font>
+00:26:57,237 --> 00:26:58,437
+<i>toucher Gin.</i>
 
 147
-00:28:28,133 --> 00:28:28,933
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru.</font>
+00:27:26,887 --> 00:27:29,007
+C'est ton nouvel uniforme ?
 
 148
-00:28:30,533 --> 00:28:33,383
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Let me tell you about myself.</font>
+00:27:29,007 --> 00:27:29,857
+Oui.
 
 149
-00:28:40,003 --> 00:28:41,483
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm no longer human.</font>
+00:27:39,497 --> 00:27:41,067
+Le temps passe vite, n'est-ce pas ?
 
 150
-00:28:49,393 --> 00:28:54,293
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'd only just been abandoned, so I cried helplessly{uh, what?}</font>
+00:27:41,677 --> 00:27:43,577
+Tu es déjà au lycée.
 
 151
-00:28:55,543 --> 00:28:58,933
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">as if to call back the parents who left me.</font>
+00:27:43,577 --> 00:27:44,517
+Oui.
 
 152
-00:29:14,933 --> 00:29:19,253
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">but the mountain god appeared and cast a spell that allowed me to continue living.</font>
+00:27:56,947 --> 00:28:00,987
+C'est normal, après tout ces coups.
 
 153
-00:29:20,493 --> 00:29:24,803
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">So that I never move on.</font>
+00:28:08,677 --> 00:28:10,037
+J'attends cela avec impatience.
 
 154
-00:29:33,003 --> 00:29:33,793
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru.</font>
+00:28:10,937 --> 00:28:13,207
+Dans trois ans, quand j'aurai mon diplôme,
 
 155
-00:29:44,833 --> 00:29:46,873
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If it touches a real human body,</font>
+00:28:13,207 --> 00:28:15,677
+je pense chercher un travail par ici.
 
 156
-00:29:47,293 --> 00:29:49,233
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">the spell will break and the body will disappear.</font>
+00:28:16,557 --> 00:28:17,587
+Comme ça,
 
 157
-00:29:54,873 --> 00:29:56,483
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's just like snow, isn't it?</font>
+00:28:18,007 --> 00:28:19,767
+je pourrai être avec toi plus souvent.
 
 158
-00:29:57,593 --> 00:29:59,223
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin,</font>
+00:28:29,117 --> 00:28:29,907
+D'accord ?
 
 159
-00:30:00,353 --> 00:30:03,683
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I thought of you during winter.</font>
+00:28:35,657 --> 00:28:36,537
+Hotaru.
 
 160
-00:30:09,103 --> 00:30:09,843
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin,</font>
+00:28:38,137 --> 00:28:41,107
+Je vais te dire quelque chose à propos de moi.
 
 161
-00:30:10,703 --> 00:30:12,993
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">don't forget about me.</font>
+00:29:03,117 --> 00:29:05,677
+comme si cela ramènerait les parents qui m'avaient laissé.
 
 162
-00:30:14,463 --> 00:30:15,653
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Don't forget.</font>
+00:29:08,917 --> 00:29:10,687
+Ils disent que je n'ai pas arrêté de pleurer pendant longtemps.
 
 163
-00:30:18,413 --> 00:30:22,563
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Time might separate us some day.</font>
+00:29:17,897 --> 00:29:22,417
+Normalement j'aurais dû mourir,
 
 164
-00:30:28,883 --> 00:30:30,313
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">let's stay together.</font>
+00:29:22,417 --> 00:29:27,197
+mais le dieu de la montagne apparut et lança un sort qui me permit de continuer à vivre.
 
 165
-00:30:35,333 --> 00:30:37,023
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Spirit festival?</font>
+00:29:40,507 --> 00:29:41,467
+Hotaru.
 
 166
-00:30:42,013 --> 00:30:44,023
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">The nuance is completely different!</font>
+00:29:42,427 --> 00:29:44,087
+Ce n'est pas un souci si tu m'oublies.
 
 167
-00:30:44,553 --> 00:30:45,713
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Nuance?</font>
+00:29:47,887 --> 00:29:51,477
+Un corps maintenu par la magie est très faible.
 
 168
-00:30:46,633 --> 00:30:50,533
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">When you were little, I thought you might get scared, so I didn't invite you.</font>
+00:29:52,417 --> 00:29:54,727
+S'il touche un véritable humain,
 
 169
-00:30:51,283 --> 00:30:54,523
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But tonight, can you sneak out of your house?</font>
+00:29:54,727 --> 00:29:56,857
+le sort sera rompu et le corps disparaîtra.
 
 170
-00:30:55,073 --> 00:30:57,343
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I've wanted to go with you for a long time.</font>
+00:29:56,857 --> 00:29:58,837
+C'est une chose si fragile.
 
 171
-00:30:59,463 --> 00:31:01,413
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I-I want to go!</font>
+00:29:58,837 --> 00:29:59,687
+Combien de temps pourra...
 
 172
-00:31:01,413 --> 00:31:04,203
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Meet me at eight at our usual place.</font>
+00:29:59,687 --> 00:30:01,647
+Quelque chose qui disparaît quand on le touche...
 
 173
-00:31:04,703 --> 00:31:09,343
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But a festival filled with spirits sounds a little unnerving...</font>
+00:30:12,217 --> 00:30:13,157
+Et même en automne
 
 174
-00:31:09,753 --> 00:31:11,393
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">On top of that, it's at night.</font>
+00:30:14,197 --> 00:30:15,497
+et au printemps.
 
 175
-00:31:12,323 --> 00:31:13,233
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Don't worry.</font>
+00:30:16,687 --> 00:30:17,487
+Gin,
 
 176
-00:31:13,693 --> 00:31:15,823
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">On the outside, it's not very different from a human festival.</font>
+00:30:18,237 --> 00:30:20,507
+ne m'oublie pas.
 
 177
-00:31:16,423 --> 00:31:19,063
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's supposed to mimic human festivals, after all.</font>
+00:30:26,007 --> 00:30:30,157
+Le temps nous séparera peut-être un jour.
 
 178
-00:31:29,843 --> 00:31:30,793
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Seriously.</font>
+00:30:44,857 --> 00:30:48,117
+Non, le festival d'été tenu par les esprits.
 
 179
-00:32:14,453 --> 00:32:16,253
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Are they all disguised as humans?</font>
+00:30:49,717 --> 00:30:51,537
+La nuance est complètement différente !
 
 180
-00:32:16,253 --> 00:32:18,393
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's right. Impressive, isn't it?</font>
+00:30:52,077 --> 00:30:53,317
+Nuance ?
 
 181
-00:32:25,383 --> 00:32:26,193
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Who?</font>
+00:30:58,857 --> 00:30:59,717
+Mais cette nuit,
 
 182
-00:33:17,843 --> 00:33:18,723
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Here you go.</font>
+00:31:00,407 --> 00:31:02,297
+pourrais-tu te faufiler en dehors de ta maison ?
 
 183
-00:33:38,733 --> 00:33:39,913
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Weird.</font>
+00:31:02,627 --> 00:31:04,917
+Je voulais y aller avec toi depuis un long moment.
 
 184
-00:33:52,573 --> 00:33:54,303
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ew, a couple!</font>
+00:31:07,017 --> 00:31:08,977
+Je veux y aller !
 
 185
-00:33:54,303 --> 00:33:55,703
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hey!</font>
+00:31:08,977 --> 00:31:11,797
+Dans ce cas, retrouve-moi
+à 8 heures à notre endroit habituel.
 
 186
-00:34:07,553 --> 00:34:09,923
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Look! That kid has a tail!</font>
+00:31:12,327 --> 00:31:16,937
+Mais un festival rempli d'esprits,
+ça a l'air d'être un peu bizarre...
 
 187
-00:34:26,973 --> 00:34:28,913
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I-I'm sorry!</font>
+00:31:17,387 --> 00:31:19,067
+et par dessus tout, ça se passe la nuit.
 
 188
-00:34:46,433 --> 00:34:49,353
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Wow, that was so weird!</font>
+00:31:19,877 --> 00:31:20,767
+Ne t'inquiète pas.
 
 189
-00:34:49,353 --> 00:34:51,663
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Everyone went all out with their disguises, didn't they?</font>
+00:31:21,297 --> 00:31:23,397
+En regardant bien, ce n'est pas très différent d'un festival humain.
 
 190
-00:34:51,663 --> 00:34:53,743
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It was like a mimicking competition!</font>
+00:31:24,017 --> 00:31:26,567
+C'est censé imiter les festivals humains, après tout.
 
 191
-00:34:53,743 --> 00:34:55,163
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is it like this every year?</font>
+00:31:27,337 --> 00:31:29,707
+Et je te protégerai, Hotaru.
 
 192
-00:34:55,483 --> 00:34:59,833
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah, every time summer comes around...</font>
+00:31:30,867 --> 00:31:35,177
+Quand tu dis des choses comme ça,
+j'ai envie de te prendre dans mes bras.
 
 193
-00:35:02,093 --> 00:35:02,933
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru,</font>
+00:32:17,807 --> 00:32:21,487
+C'est vrai. C'est comme un festival humain.
 
 194
-00:35:03,653 --> 00:35:07,083
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I can no longer wait for summer to come around.</font>
+00:32:21,987 --> 00:32:23,837
+Ils sont tous déguisés en humains ?
 
 195
-00:35:08,683 --> 00:35:14,083
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">When I'm away from you, even though I can't be around crowds, I want to go see you.</font>
+00:32:23,837 --> 00:32:24,727
+Exactement.
 
 196
-00:35:57,563 --> 00:36:00,883
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>This is definitely our last...</i></font>
+00:32:24,727 --> 00:32:25,897
+Impressionnant, non ?
 
 197
-00:36:01,173 --> 00:36:02,563
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Wait!</font>
+00:32:25,897 --> 00:32:29,567
+J'ai entendu dire que de temps en temps,
+même des humains viennent sans le savoir.
 
 198
-00:36:08,323 --> 00:36:10,113
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah. Thank you!</font>
+00:32:31,087 --> 00:32:32,947
+Comme Iwa et ses amies, hein ?
 
 199
-00:36:10,783 --> 00:36:12,243
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Be careful, okay?</font>
+00:32:32,947 --> 00:32:33,707
+Qui ?
 
 200
-00:36:21,933 --> 00:36:22,783
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin?</font>
+00:32:37,857 --> 00:32:38,687
+Hotaru.
 
 201
-00:36:33,903 --> 00:36:34,713
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin!</font>
+00:33:25,377 --> 00:33:26,397
+Tenez.
 
 202
-00:36:35,613 --> 00:36:37,153
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Come here, Hotaru!</font>
+00:33:46,237 --> 00:33:47,557
+C'est bizarre.
 
 203
-00:37:20,533 --> 00:37:21,513
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I love you.</font>
+00:35:02,997 --> 00:35:07,197
+Oui, à chaque fois que l'été arrive...
 
 204
-00:37:22,263 --> 00:37:22,963
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah.</font>
+00:35:09,637 --> 00:35:10,557
+Hotaru,
 
 205
-00:37:24,133 --> 00:37:25,443
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I love you, too.</font>
+00:35:11,197 --> 00:35:12,117
+je...
 
 206
-00:37:47,893 --> 00:37:49,103
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Deep green.</i></font>
+00:35:13,157 --> 00:35:14,577
+ne peux plus attendre l'été.
 
 207
-00:37:50,393 --> 00:37:52,173
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>This is the mountain god's forest.</i></font>
+00:35:16,277 --> 00:35:17,087
+Quand je suis loin de toi,
 
 208
-00:37:59,703 --> 00:38:03,563
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">We wanted to be with Gin forever, but...</font>
+00:35:18,057 --> 00:35:21,597
+même si je ne peux pas être pris dans une foule, je veux aller te voir.
 
 209
-00:38:03,563 --> 00:38:08,803
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin wanted to touch a human.</font>
+00:36:05,197 --> 00:36:06,667
+<i>C'est sûrement...</i>
 
 210
-00:38:14,063 --> 00:38:16,383
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>I probably won't be able to</i></font>
+00:36:07,587 --> 00:36:08,387
+<i>notre dernier...</i>
 
 211
-00:38:24,233 --> 00:38:25,723
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>My tears will be overflowing.</i></font>
+00:36:08,727 --> 00:36:10,267
+Attends !
 
 212
-00:38:26,973 --> 00:38:35,473
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>But this warmth in my hands and these summer memories will live on in my heart.</i></font>
+00:36:11,437 --> 00:36:11,897
+Attention !
 
 213
-00:38:43,143 --> 00:38:44,933
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>So, let's go.</i></font>
+00:36:14,567 --> 00:36:15,647
+Est-ce que ça va ?
 
 214
-00:39:23,643 --> 00:39:23,653
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">{ED}</font>
+00:36:16,007 --> 00:36:17,747
+Oui. Merci !
 
 215
-00:39:30,093 --> 00:44:19,413
-<font face="LTFinnegan Medium" size="75" color="#f9f4f1">{\an7}<font color="#000000">m 1920 960 l 1920 1080 l 0 1080 l 0 960 l 1920 960 {p0}</font></font>
+00:36:18,197 --> 00:36:19,887
+Fais attention, d'accord ?
 
 216
-00:39:49,943 --> 00:39:55,873
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">The cicadas laugh out in song</font></font>
+00:36:33,407 --> 00:36:34,927
+Cet enfant était un humain ?
 
 217
-00:39:56,773 --> 00:40:02,513
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}to the red evening sunset</font>
+00:36:41,437 --> 00:36:42,217
+Gin !
 
 218
-00:40:02,933 --> 00:40:09,753
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The way back home is long</font>
+00:36:43,137 --> 00:36:44,767
+Viens, Hotaru !
 
 219
-00:40:20,653 --> 00:40:32,933
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The summer is in full bloom</font>
+00:37:28,057 --> 00:37:29,267
+Je t'aime.
 
 220
-00:40:34,233 --> 00:40:47,073
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}making you look more beautiful than ever</font>
+00:37:29,827 --> 00:37:30,647
+Oui.
 
 221
-00:41:01,973 --> 00:41:08,243
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}I thought the tale would never end</font>
+00:37:55,467 --> 00:37:56,737
+<i>Dans le vert intense.</i>
 
 222
-00:41:09,263 --> 00:41:15,043
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}but I realize now that something comes after</font>
+00:37:57,957 --> 00:37:59,807
+<i>Ceci est la forêt du dieu de la montagne.</i>
 
 223
-00:41:15,763 --> 00:41:22,593
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The crows too took flight</font>
+00:38:04,177 --> 00:38:06,797
+Hotaru. Merci.
 
 224
-00:41:23,533 --> 00:41:30,543
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}and went somewhere far, far away</font>
+00:38:07,177 --> 00:38:11,127
+Nous voulions être avec Gin pour toujours, mais...
 
 225
-00:41:34,223 --> 00:41:46,763
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The summer flies by</font>
+00:38:11,127 --> 00:38:16,307
+Gin voulait toucher un humain.
 
 226
-00:41:48,333 --> 00:42:01,233
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}to hide away its treasures till next year</font>
+00:38:16,767 --> 00:38:20,787
+Finalement, il a été enlacé par une humaine.
 
 227
-00:42:49,143 --> 00:42:55,583
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}I'll never ever forget</font>
+00:38:21,677 --> 00:38:23,957
+<i>Je ne serai sûrement pas capable</i>
 
 228
-00:43:11,903 --> 00:43:18,193
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}to my boring everyday life</font>
+00:38:31,787 --> 00:38:33,317
+<i>Mes larmes déborderont.</i>
 
 229
-00:43:37,803 --> 00:43:50,093
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}to help me keep my promise of that day</font>
+00:38:34,587 --> 00:38:42,947
+<i>Mais cette chaleur sur mes mains et les souvenirs de ces étés vivront pour toujours dans mon coeur.</i>
 
 230
-00:43:51,313 --> 00:44:04,073
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The summer is still in bloom</font>
-
-231
-00:44:05,083 --> 00:44:17,903
-<font face="Goodfish" size="80" color="#f9f4f1">{\an3}making you look more beautiful than ever</font>
+00:38:57,317 --> 00:38:58,407
+<i>Allons-y.</i>
 
