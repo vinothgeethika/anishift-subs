@@ -1,1003 +1,792 @@
 1
-00:00:56,387 --> 00:00:59,152
-A ur�it� poslouchej strejdu.
+00:00:56,853 --> 00:00:58,273
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Wait, don't tell me that's everything?</font>
 
 2
-00:00:59,318 --> 00:01:00,332
-Jasn�.
+00:00:58,273 --> 00:01:00,533
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's fine. I made sure I packed the black ones.</font>
 
 3
-00:01:00,412 --> 00:01:02,247
-M� kapesn�k? L�stek?
+00:01:08,173 --> 00:01:11,643
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Jeez. I've been going there every year, so I'll be all right.</font>
 
 4
-00:01:02,416 --> 00:01:04,332
-P�kn� boty?
+00:01:11,643 --> 00:01:15,123
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hey, put on a hat. You'll get heat stroke.</font>
 
 5
-00:01:04,552 --> 00:01:05,865
-To m� b�t v�echno?
+00:01:15,123 --> 00:01:17,553
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's alright! I'm fine.</font>
 
 6
-00:01:05,945 --> 00:01:08,443
-Kl�dek. P�ibalila jsem si ty �ern�.
+00:01:49,623 --> 00:01:51,713
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>The first time I met him</i></font>
 
 7
-00:01:09,034 --> 00:01:11,588
-Nezapome� zavazadla v �inkansenu, jo?
+00:01:53,963 --> 00:01:56,053
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>was when I was six.</i></font>
 
 8
-00:01:11,785 --> 00:01:13,941
-D�vej pozor, abys nep�ejela zast�vku.
+00:01:57,053 --> 00:02:05,393
+<font face="Constantia" size="110" color="#e4f0fb">{\an8}To the Forest of Firefly Lights</font>
 
 9
-00:01:14,021 --> 00:01:15,507
-Jo, v�ak j� v�m!
+00:02:12,313 --> 00:02:14,483
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>which was said to be where spirits lived.</i></font>
 
 10
-00:01:22,851 --> 00:01:25,218
-To je dobr�!
-Jsem v pohod�.
+00:03:17,203 --> 00:03:18,673
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">S-Sorry.</font>
 
 11
-00:01:27,691 --> 00:01:28,986
-Tak j� miz�m!
+00:03:20,643 --> 00:03:23,883
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're a human child, right?</font>
 
 12
-00:01:57,267 --> 00:01:59,481
-<i>Kdy� jsem ho poprv� potkala...</i>
+00:03:25,073 --> 00:03:28,353
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If a human touches me, I'll disappear.</font>
 
 13
-00:02:01,593 --> 00:02:03,784
-<i>...bylo mi �est let.</i>
+00:03:30,673 --> 00:03:32,883
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If a human...?</font>
 
 14
-00:02:04,567 --> 00:02:12,389
-<i>Do lesa sv�tlu���ch sv�tel</i>
+00:03:33,563 --> 00:03:35,703
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're not a human?</font>
 
 15
-00:02:14,132 --> 00:02:15,922
-<i>Za hork�ho letn�ho dne</i>
+00:03:36,903 --> 00:03:39,663
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm... something that lives in this forest.</font>
 
 16
-00:02:16,218 --> 00:02:19,309
-<i>jsem se ztratila v lese horsk�ho boha,</i>
+00:03:41,383 --> 00:03:44,083
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">What? Then... you're one of the spirits?</font>
 
 17
-00:02:19,878 --> 00:02:22,523
-<i>o kter�m se ��k�,
-�e v n�m �ij� d�moni.</i>
+00:04:36,993 --> 00:04:38,933
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If I get touched by a human,</font>
 
 18
-00:02:36,144 --> 00:02:38,659
-<i>...objevil se p�ede mnou.</i>
+00:04:40,443 --> 00:04:41,753
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">that's the end.</font>
 
 19
-00:03:02,635 --> 00:03:04,808
-Pro� pl��e�?
+00:04:50,223 --> 00:04:51,683
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Grab the other end.</font>
 
 20
-00:03:25,563 --> 00:03:26,959
-Promi�.
+00:04:52,723 --> 00:04:53,833
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're lost, aren't you?</font>
 
 21
-00:03:28,289 --> 00:03:31,306
-Jsi lidsk� d�t�, �e?
+00:04:55,253 --> 00:04:56,953
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'll lead you out of the forest.</font>
 
 22
-00:03:32,715 --> 00:03:35,971
-Pokud se mne dotkne �lov�k, tak zmiz�m.
+00:04:59,193 --> 00:05:00,813
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank you!</font>
 
 23
-00:03:38,387 --> 00:03:40,572
-Pokud �lov�k...?
+00:05:41,323 --> 00:05:42,113
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Of what?</font>
 
 24
-00:03:52,833 --> 00:03:56,492
-Co ale mysl� t�m, �e zmiz�?
+00:06:00,683 --> 00:06:03,363
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">This is the forest where the mountain god and spirits live.</font>
 
 25
-00:04:27,026 --> 00:04:31,517
-��dn� �lov�k by d�t� takhle neude�il!
+00:07:06,223 --> 00:07:07,023
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru!</font>
 
 26
-00:04:33,076 --> 00:04:37,057
-Zmizen�m mysl�m naprost� vymaz�n�.
+00:07:07,023 --> 00:07:08,813
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ah, Uncle!</font>
 
 27
-00:04:38,918 --> 00:04:42,820
-Takov� kouzlo na m� horsk� b�h seslal.
+00:07:30,213 --> 00:07:31,133
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Uncle.</font>
 
 28
-00:04:57,879 --> 00:04:59,819
-Chytni se za druh� konec.
+00:07:31,133 --> 00:07:32,113
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Huh?</font>
 
 29
-00:05:00,334 --> 00:05:01,781
-Ztratila ses, ne?
+00:07:32,803 --> 00:07:35,593
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is it true that there are spirits living in that forest?</font>
 
 30
-00:05:02,855 --> 00:05:04,754
-Vyvedu t� z lesa.
+00:08:03,903 --> 00:08:10,513
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">And now that I think about it, Iwa said she and her friends went and had fun at a summer festival in the forest.</font>
 
 31
-00:05:06,683 --> 00:05:08,440
-D�kuji!
+00:09:35,173 --> 00:09:36,053
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You came.</font>
 
 32
-00:05:13,017 --> 00:05:17,193
-- Nevysv�tlil jsem ti to zrovna?
-- Promi�, jenom jsem...
+00:09:38,603 --> 00:09:40,873
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I didn't think you'd really come back.</font>
 
 33
-00:05:50,812 --> 00:05:52,122
-Ale nic.
+00:09:41,983 --> 00:09:42,743
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You...</font>
 
 34
-00:05:55,688 --> 00:05:59,184
-Jestli odsud p�jde� rovn�,
-naraz� na horskou stezku.
+00:09:45,003 --> 00:09:47,063
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You waited for me!</font>
 
 35
-00:05:59,820 --> 00:06:00,949
-Ahoj.
+00:09:51,823 --> 00:09:53,963
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You just don't learn, do you?</font>
 
 36
-00:06:02,081 --> 00:06:04,321
-Bude� tu v�dycky?
+00:09:54,673 --> 00:09:56,703
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I was so happy, I just...</font>
 
 37
-00:06:05,204 --> 00:06:07,889
-Jestli se sem vr�t�m,
-m��eme se zase setkat?
+00:09:56,703 --> 00:09:57,883
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Sorry.</font>
 
 38
-00:06:08,326 --> 00:06:11,054
-Tohle je les, ve kter�m
-�ije horsk� b�h a d�moni.
+00:10:00,213 --> 00:10:01,283
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's a bit hot here.</font>
 
 39
-00:06:28,529 --> 00:06:29,810
-A ty?
+00:10:02,123 --> 00:10:03,583
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Shall we go somewhere cooler?</font>
 
 40
-00:06:54,199 --> 00:06:55,693
-J� jsem Gin.
+00:10:03,943 --> 00:10:04,573
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">What?</font>
 
 41
-00:07:13,841 --> 00:07:15,050
-Hotaru!
+00:10:05,483 --> 00:10:06,673
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Don't worry.</font>
 
 42
-00:07:15,225 --> 00:07:16,650
-Strejdo!
+00:10:07,133 --> 00:10:08,583
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'll see you out of here again.</font>
 
 43
-00:07:17,735 --> 00:07:20,935
-Hotaru, ty huso!
+00:11:05,863 --> 00:11:09,223
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is that a human child?</font>
 
 44
-00:07:43,830 --> 00:07:46,884
-Les horsk�ho boha... Kdo v�.
+00:11:10,693 --> 00:11:12,733
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Can I eat it?</font>
 
 45
-00:07:54,004 --> 00:07:56,230
-Jako mal� jsem ty d�mony cht�l vid�t,
+00:11:14,613 --> 00:11:15,443
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">No.</font>
 
 46
-00:08:01,660 --> 00:08:05,849
-tak se mi v�dy zd�lo,
-�e jsem n�co zahl�dl koutkem oka.
+00:11:16,363 --> 00:11:17,233
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">She's my friend.</font>
 
 47
-00:08:06,824 --> 00:08:11,291
-Za letn�ch noc� jsi mohla sly�et
-zvuk �eky vych�zej�c� z lesa.
+00:11:25,593 --> 00:11:30,753
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If you do, I'll eat you!</font>
 
 48
-00:08:13,961 --> 00:08:17,940
-�e s kamar�dkami za�ila
-v lese z�bavnou slavnost.
+00:11:44,573 --> 00:11:47,943
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">He transforms to scare people, but he's all bark and no bite.{He transforms to scare people, but he's actually cowardly and a good guy.}</font>
 
 49
-00:08:18,783 --> 00:08:22,936
-Nen� ale mo�n�,
-aby vesni�an� po��dali slavnost v lese.
+00:11:51,703 --> 00:11:53,493
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Amazing!</font>
 
 50
-00:08:35,320 --> 00:08:38,027
-P�ni, to ale vyvol�v� vzpom�nky!
+00:12:06,053 --> 00:12:08,033
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin, are you a No-Face or something?</font>
 
 51
-00:08:38,311 --> 00:08:41,654
-Byli jsme tak hloup�,
-kdy� jsme byli d�ti.
+00:12:21,893 --> 00:12:23,303
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's why I waited for you.</font>
 
 52
-00:09:12,405 --> 00:09:15,616
-<i>Tohle je les, ve kter�m
-�ije horsk� b�h a d�moni.</i>
+00:12:46,363 --> 00:12:47,913
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Over here, over here!</font>
 
 53
-00:09:16,537 --> 00:09:20,018
-<i>Vkro��-li dovnit�, tak zabloud�
-a bude� nav�dy ztracen�.</i>
+00:13:06,233 --> 00:13:07,873
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Even though it was silly,</i></font>
 
 54
-00:09:42,805 --> 00:09:44,197
-P�i�la jsi.
+00:13:08,793 --> 00:13:10,603
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>it was so much fun.</i></font>
 
 55
-00:09:46,194 --> 00:09:48,475
-V�n� jsem nemyslel, �e p�ijde�.
+00:14:14,613 --> 00:14:16,993
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm sorry, but</font>
 
 56
-00:09:49,621 --> 00:09:50,853
-Ty...
+00:14:26,203 --> 00:14:28,063
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Why are you wearing that mask?</font>
 
 57
-00:09:52,580 --> 00:09:54,575
-...jsi na m� �ekal!
+00:14:29,063 --> 00:14:30,883
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If I don't wear this mask,</font>
 
 58
-00:10:07,826 --> 00:10:09,273
-Je tu dost horko.
+00:14:31,573 --> 00:14:33,283
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I don't look like a spirit, do I?</font>
 
 59
-00:10:09,722 --> 00:10:12,164
-Nep�jdeme n�kam, kde je chladn�ji?
+00:15:19,493 --> 00:15:20,933
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Will you be able to come again next year?</font>
 
 60
-00:10:13,118 --> 00:10:14,487
-Bu� v klidu.
+00:15:32,113 --> 00:15:34,913
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>became something I looked forward to.</i></font>
 
 61
-00:10:14,783 --> 00:10:16,567
-Zase t� odsud vyvedu.
+00:15:55,203 --> 00:15:56,733
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're weird.</font>
 
 62
-00:11:11,827 --> 00:11:12,912
-Gine.
+00:15:57,113 --> 00:15:59,013
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Of course the water is cold.</font>
 
 63
-00:11:18,370 --> 00:11:20,649
-M��u ji sn�st?
+00:16:19,583 --> 00:16:23,453
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If she touches you, you'll disappear.</font>
 
 64
-00:11:22,270 --> 00:11:23,234
-Ne.
+00:16:23,453 --> 00:16:24,453
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank you.</font>
 
 65
-00:11:23,969 --> 00:11:25,283
-Je to kamar�dka.
+00:16:25,623 --> 00:16:26,713
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm fine.</font>
 
 66
-00:11:52,132 --> 00:11:55,583
-Prom��uje se, aby stra�il lidi,
-ale jinak je to dobr�k.
+00:16:33,943 --> 00:16:37,603
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Please don't touch him, human child.</font>
 
 67
-00:12:16,413 --> 00:12:18,242
-Pro� nos� masku?
+00:16:39,223 --> 00:16:39,863
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yes.</font>
 
 68
-00:12:18,473 --> 00:12:19,835
-Jen tak.
+00:17:11,153 --> 00:17:12,023
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Where are you?</font>
 
 69
-00:12:26,990 --> 00:12:28,438
-Jsi zv�dav�?
+00:17:14,833 --> 00:17:15,713
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru.</font>
 
 70
-00:12:29,505 --> 00:12:31,445
-To proto jsem na tebe �ekal.
+00:17:21,173 --> 00:17:23,143
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">What're you doing?</font>
 
 71
-00:12:45,645 --> 00:12:50,290
-<i>Za t�ch letn�ch dn�
-jsem si chodila hr�t do hor.</i>
+00:17:25,593 --> 00:17:29,193
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I wanted to see your startled face, but...</font>
 
 72
-00:12:54,109 --> 00:12:55,567
-Tady jsem!
+00:17:35,193 --> 00:17:36,713
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">At least when I'm around,</font>
 
 73
-00:12:56,637 --> 00:12:58,591
-T�mhle je to lep��.
+00:17:37,233 --> 00:17:39,853
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">can you take off your mask every once in a while?</font>
 
 74
-00:13:01,775 --> 00:13:03,091
-Tady m�.
+00:17:40,863 --> 00:17:41,703
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">That's fine,</font>
 
 75
-00:13:13,866 --> 00:13:15,722
-<i>I kdy� to bylo hloup�,</i>
+00:17:42,363 --> 00:17:43,953
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">but is there a reason?</font>
 
 76
-00:13:16,445 --> 00:13:18,341
-<i>byla to takov� sranda.</i>
+00:18:17,933 --> 00:18:19,273
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank goodness.</font>
 
 77
-00:13:42,267 --> 00:13:45,215
-Gin usnul?
+00:18:21,223 --> 00:18:22,263
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hey, Gin.</font>
 
 78
-00:13:53,210 --> 00:13:56,446
-<i>Masky se dotknout m��u, ne?</i>
+00:18:37,423 --> 00:18:38,093
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Okay?</font>
 
 79
-00:14:22,207 --> 00:14:24,614
-Je mi to l�to, ale...
+00:18:57,883 --> 00:19:01,493
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>The next summer and the summer after that</i></font>
 
 80
-00:14:52,732 --> 00:14:54,452
-Jsi zvl�tn�.
+00:19:02,443 --> 00:19:04,773
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>I visited the forest.</i></font>
 
 81
-00:15:02,418 --> 00:15:03,714
-Hej, Gine.
+00:19:22,403 --> 00:19:23,383
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ta-da!</font>
 
 82
-00:15:17,323 --> 00:15:20,767
-Tak�e se mus�m z�tra vr�tit dom�.
+00:19:24,073 --> 00:19:26,033
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I've become a fifth grader.</font>
 
 83
-00:15:53,122 --> 00:15:57,539
-<i>Gin �ekal sl�ben�ho l�ta.</i>
+00:19:29,003 --> 00:19:29,743
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Somehow,</font>
 
 84
-00:15:59,421 --> 00:16:01,460
-Je studen�!
+00:19:30,573 --> 00:19:32,313
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">you're starting to look like a woman.</font>
 
 85
-00:16:02,852 --> 00:16:04,408
-Ty jsi zvl�tn�.
+00:19:32,633 --> 00:19:34,813
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I <i>am</i> a woman.</font>
 
 86
-00:16:04,739 --> 00:16:06,733
-Ov�em, �e je voda studen�.
+00:19:50,693 --> 00:19:51,323
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Huh?</font>
 
 87
-00:16:19,532 --> 00:16:20,770
-Gine!
+00:19:51,933 --> 00:19:52,753
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Nothing.</font>
 
 88
-00:16:21,712 --> 00:16:22,753
-Gine!
+00:19:53,543 --> 00:19:55,193
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Even though I'm in middle school now,</font>
 
 89
-00:16:23,049 --> 00:16:24,772
-To je nebezpe�n�, Gine.
+00:20:10,293 --> 00:20:11,153
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Somehow,</i></font>
 
 90
-00:16:41,583 --> 00:16:45,353
-Nedot�kej se ho pros�m, lidsk� d�t�.
+00:20:22,923 --> 00:20:23,663
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Like this?</font>
 
 91
-00:16:46,843 --> 00:16:47,829
-Ano.
+00:20:24,603 --> 00:20:27,953
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah, yeah. When I start running, let go, okay?</font>
 
 92
-00:16:53,739 --> 00:16:56,577
-Gine. Gine.
-D�vej si pozor.
+00:20:30,353 --> 00:20:31,883
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Here I go!</font>
 
 93
-00:16:56,917 --> 00:16:58,391
-Gine.
+00:21:54,823 --> 00:21:58,913
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Someday I'll be older than Gin, won't I?</i></font>
 
 94
-00:16:59,120 --> 00:17:01,662
-Bu� opatrn�.
-Gine. Gine.
+00:22:52,943 --> 00:22:54,013
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I don't know,</font>
 
 95
-00:17:28,779 --> 00:17:30,686
-Co to vyv�d�?
+00:22:54,013 --> 00:22:56,753
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">but they said I'll still be here until the afternoon.</font>
 
 96
-00:17:33,049 --> 00:17:36,874
-Cht�la jsem vid�t tvou vylekanou tv��, ale...
+00:23:06,703 --> 00:23:09,893
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If it continues like this, then winter will be freezing.</font>
 
 97
-00:17:42,796 --> 00:17:47,716
-Mohl by sis tu masku n�kdy sundat,
-kdy� jsem s tebou?
+00:23:39,933 --> 00:23:41,273
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Um, Uncle...</font>
 
 98
-00:17:52,189 --> 00:17:54,578
-Ani ne, ale...
+00:24:16,353 --> 00:24:17,253
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Takegawa?</font>
 
 99
-00:17:56,901 --> 00:17:58,458
-D�vej pozor, Hotaru...
+00:24:17,883 --> 00:24:20,243
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Shouldn't you be heading to your next class soon?</font>
 
 100
-00:18:10,156 --> 00:18:11,450
-To bylo o fous.
+00:24:20,873 --> 00:24:22,563
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ah, you're right!</font>
 
 101
-00:18:14,143 --> 00:18:15,557
-To teda jo...
+00:24:22,563 --> 00:24:24,153
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Everyone left already.</font>
 
 102
-00:18:17,745 --> 00:18:19,136
-Promi�, Hotaru.
+00:24:24,153 --> 00:24:25,703
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'll see you later.</font>
 
 103
-00:18:19,936 --> 00:18:21,251
-Jsi v po��dku?
+00:24:49,343 --> 00:24:50,353
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Thank you for the food.</font>
 
 104
-00:18:25,553 --> 00:18:27,054
-Ale d�ky bohu.
+00:24:50,353 --> 00:24:50,923
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">What?</font>
 
 105
-00:18:34,187 --> 00:18:39,448
-Nikdy se m� za ��dnou cenu nedotkni, jo?
+00:24:51,323 --> 00:24:52,673
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're done?</font>
 
 106
-00:18:56,048 --> 00:18:57,626
-Za ��dnou cenu!
+00:24:52,913 --> 00:24:56,143
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Ah, you probably ate before dinner, didn't you?</font>
 
 107
-00:19:05,542 --> 00:19:09,081
-<i>P��t� l�to a l�to nato...</i>
+00:24:56,143 --> 00:24:57,893
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">If you snack, you'll gain weight.</font>
 
 108
-00:19:10,002 --> 00:19:12,486
-<i>...jsem nav�t�vila les.</i>
+00:24:57,893 --> 00:24:59,513
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I didn't eat anything!</font>
 
 109
-00:19:26,436 --> 00:19:28,606
-Gine! Tak jsem zase tady.
+00:24:59,513 --> 00:25:01,383
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Jeez. I'm gonna take a bath!</font>
 
 110
-00:19:30,095 --> 00:19:31,256
-Ta d�!
+00:26:15,543 --> 00:26:16,523
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>I want to</i></font>
 
 111
-00:19:31,696 --> 00:19:33,866
-Jsem te� v p�t�m ro�n�ku.
+00:26:18,683 --> 00:26:19,883
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>see Gin.</i></font>
 
 112
-00:19:46,723 --> 00:19:47,397
-Jo.
+00:26:45,423 --> 00:26:46,323
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>I want to</i></font>
 
 113
-00:19:47,477 --> 00:19:48,517
-<i>Co�e?</i>
+00:27:32,013 --> 00:27:33,503
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Time really flies, doesn't it?</font>
 
 114
-00:19:48,749 --> 00:19:50,064
-<i>Jaksi...</i>
+00:27:34,113 --> 00:27:35,983
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">You're already in high school, huh.</font>
 
 115
-00:20:02,829 --> 00:20:06,240
-spousta m�ch kamar�d�
-ze z�kladky je ve stejn� t��d�,
+00:27:35,983 --> 00:27:36,963
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yup.</font>
 
 116
-00:20:06,320 --> 00:20:07,908
-tak mi to ani tak nep�ijde.
+00:28:09,033 --> 00:28:12,203
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Then I can be with you more.</font>
 
 117
-00:20:07,988 --> 00:20:12,237
-<i>V�kem se k sob� pozvolna p�ibli�ujeme.</i>
+00:28:13,713 --> 00:28:14,543
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">In autumn,</font>
 
 118
-00:20:17,921 --> 00:20:24,003
-<i>Vypad� to, jako by Gin st�rnul
-mnohem pomaleji ne� lid�.</i>
+00:28:15,603 --> 00:28:16,453
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">winter,</font>
 
 119
-00:20:30,579 --> 00:20:31,839
-Takhle?
+00:28:17,653 --> 00:28:18,573
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">spring...</font>
 
 120
-00:20:32,201 --> 00:20:35,626
-Tak, tak. Pus� ho a� se rozb�hnu, jo?
+00:28:19,663 --> 00:28:20,653
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Always.</font>
 
 121
-00:20:37,980 --> 00:20:39,744
-Jdu na to!
+00:28:21,533 --> 00:28:22,153
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Right?</font>
 
 122
-00:22:02,535 --> 00:22:06,557
-<i>Jednoho dne budu star�� ne� Gin, �e?</i>
+00:28:28,133 --> 00:28:28,933
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru.</font>
 
 123
-00:22:56,859 --> 00:22:59,511
-V kolik z�tra jede� �inkansenem?
+00:28:30,533 --> 00:28:33,383
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Let me tell you about myself.</font>
 
 124
-00:23:00,526 --> 00:23:04,252
-Nev�m, ale do odpoledne tu pr� je�t� budu.
+00:28:49,393 --> 00:28:54,293
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'd only just been abandoned, so I cried helplessly{uh, what?}</font>
 
 125
-00:23:05,414 --> 00:23:06,598
-Aha.
+00:28:55,543 --> 00:28:58,933
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">as if to call back the parents who left me.</font>
 
 126
-00:23:09,414 --> 00:23:12,987
-Jeliko� bylo po�as� v l�t� dobr�,
-tak jsou melouny sladk�.
+00:29:28,373 --> 00:29:30,233
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I'm like a ghost.</font>
 
 127
-00:23:14,334 --> 00:23:17,596
-Jestli to tak bude pokra�ovat,
-zima bude ukrutn�.
+00:29:33,003 --> 00:29:33,793
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru.</font>
 
 128
-00:23:18,582 --> 00:23:20,073
-Takhle pokra�ovat?
+00:29:49,233 --> 00:29:51,203
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's such a fragile thing.</font>
 
 129
-00:23:20,840 --> 00:23:22,254
-Tak se to m�.
+00:29:51,203 --> 00:29:52,173
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">How long can you—</font>
 
 130
-00:23:24,721 --> 00:23:28,831
-Proto�e se tato oblast nach�z�
-mezi horami a oce�n je daleko,
+00:29:52,173 --> 00:29:54,173
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Something that disappears when touched...</font>
 
 131
-00:23:29,127 --> 00:23:32,390
-rozd�l v teplot�ch mezi l�tem
-a zimou je obrovsk�.
+00:29:54,873 --> 00:29:56,483
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's just like snow, isn't it?</font>
 
 132
-00:23:32,774 --> 00:23:36,226
-Zima, kter� n�sleduje po obzvl�t� tepl�m l�t�,
+00:29:57,593 --> 00:29:59,223
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin,</font>
 
 133
-00:23:36,467 --> 00:23:40,388
-by mohla zmrazit dokonce
-i samotn�ho horsk�ho boha.
+00:30:00,353 --> 00:30:03,683
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I thought of you during winter.</font>
 
 134
-00:23:52,860 --> 00:23:53,945
-��la?
+00:30:04,733 --> 00:30:05,583
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Even during autumn</font>
 
 135
-00:23:54,471 --> 00:23:55,370
-Jo!
+00:30:06,693 --> 00:30:07,683
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">and spring.</font>
 
 136
-00:23:55,644 --> 00:23:57,698
-Tu m� na zimu.
+00:30:09,103 --> 00:30:09,843
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin,</font>
 
 137
-00:23:59,803 --> 00:24:01,085
-Ahoj!
+00:30:10,703 --> 00:30:12,993
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">don't forget about me.</font>
 
 138
-00:24:03,317 --> 00:24:04,413
-Dobr�.
+00:30:14,463 --> 00:30:15,653
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Don't forget.</font>
 
 139
-00:24:06,555 --> 00:24:08,275
-Tak zase za rok!
+00:30:18,413 --> 00:30:22,563
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Time might separate us some day.</font>
 
 140
-00:24:23,950 --> 00:24:25,177
-Takegawo?
+00:30:23,523 --> 00:30:24,003
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But,</font>
 
 141
-00:24:25,528 --> 00:24:27,961
-Nem�la bys u� pomalu j�t na dal�� hodinu?
+00:30:25,063 --> 00:30:26,003
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">even still,</font>
 
 142
-00:24:28,487 --> 00:24:30,042
-No v�n�!
+00:30:35,333 --> 00:30:37,023
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Spirit festival?</font>
 
 143
-00:24:30,212 --> 00:24:31,667
-V�ichni u� �li.
+00:30:37,173 --> 00:30:40,343
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">No, a summer festival held by the spirits.</font>
 
 144
-00:24:31,747 --> 00:24:33,182
-Tak zat�m.
+00:30:40,573 --> 00:30:42,013
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">There's not much of a difference.</font>
 
 145
-00:24:33,357 --> 00:24:35,122
-Dob�e. D�ky.
+00:30:42,013 --> 00:30:44,023
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">The nuance is completely different!</font>
 
 146
-00:24:58,932 --> 00:25:00,187
-U� jsi dojedla?
+00:30:51,283 --> 00:30:54,523
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">But tonight, can you sneak out of your house?</font>
 
 147
-00:25:00,485 --> 00:25:03,510
-Nejsp� ses zase nacpala p�ed ve�e��, �e?
+00:30:55,073 --> 00:30:57,343
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I've wanted to go with you for a long time.</font>
 
 148
-00:25:03,700 --> 00:25:07,041
-- Jestli se bude� cp�t, tak ztloustne�.
-- Nic jsem nejedla!
+00:30:59,463 --> 00:31:01,413
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I-I want to go!</font>
 
 149
-00:25:07,121 --> 00:25:09,494
-Kristova noho! Jdu se vykoupat!
+00:31:01,413 --> 00:31:04,203
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Meet me at eight at our usual place.</font>
 
 150
-00:25:45,830 --> 00:25:46,829
-Dobr� r�no.
+00:31:12,323 --> 00:31:13,233
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Don't worry.</font>
 
 151
-00:25:46,909 --> 00:25:47,927
-Dobr� r�no.
+00:31:13,693 --> 00:31:15,823
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">On the outside, it's not very different from a human festival.</font>
 
 152
-00:25:56,050 --> 00:25:58,012
-Uklouzne�.
-Je to nebezpe�n�.
+00:31:16,423 --> 00:31:19,063
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's supposed to mimic human festivals, after all.</font>
 
 153
-00:26:10,495 --> 00:26:12,249
-Dneska je ale zima.
+00:31:19,773 --> 00:31:22,253
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">And I'll protect you, Hotaru.</font>
 
 154
-00:26:14,106 --> 00:26:17,854
-Nejsi v posledn� dob� trochu mimo?
+00:31:23,323 --> 00:31:27,523
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">When you say things that, it makes me want to glomp you.</font>
 
 155
-00:26:18,607 --> 00:26:21,412
-I kdy� jsi takov� byla v�dycky, ale...
+00:31:27,523 --> 00:31:28,483
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Do it.</font>
 
 156
-00:26:53,086 --> 00:26:54,434
-<i>Chci...</i>
+00:31:29,843 --> 00:31:30,793
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Seriously.</font>
 
 157
-00:26:57,316 --> 00:26:59,102
-<i>...se Gina dotknout.</i>
+00:32:14,453 --> 00:32:16,253
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Are they all disguised as humans?</font>
 
 158
-00:27:27,013 --> 00:27:28,767
-To je tvoje nov� uniforma?
+00:32:23,533 --> 00:32:25,383
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Like Iwa and her friends, huh?</font>
 
 159
-00:27:29,167 --> 00:27:30,241
-Jo.
+00:32:25,383 --> 00:32:26,193
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Who?</font>
 
 160
-00:27:54,305 --> 00:27:56,642
-Dnes u� po mn� nesk��e�.
+00:32:41,003 --> 00:32:42,913
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It's just like going on a date!</font>
 
 161
-00:27:56,818 --> 00:28:00,973
-To je samo sebou.
-Ten v�prask m� nau�il.
+00:32:43,763 --> 00:32:45,513
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">This <i>is</i> a date.</font>
 
 162
-00:28:08,714 --> 00:28:10,500
-Nem��u se do�kat.
+00:32:48,343 --> 00:32:49,243
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Shall we go?</font>
 
 163
-00:28:10,971 --> 00:28:15,714
-A� za t�i roky dostuduju,
-tak si tu chci naj�t pr�ci.
+00:32:49,803 --> 00:32:50,353
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah.</font>
 
 164
-00:28:16,646 --> 00:28:19,819
-Abych s tebou mohla b�t v�c.
+00:33:17,843 --> 00:33:18,723
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Here you go.</font>
 
 165
-00:28:27,268 --> 00:28:28,495
-V�dy.
+00:34:07,553 --> 00:34:09,923
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Look! That kid has a tail!</font>
 
 166
-00:28:29,153 --> 00:28:30,128
-Ne?
+00:34:46,433 --> 00:34:49,353
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Wow, that was so weird!</font>
 
 167
-00:28:35,746 --> 00:28:37,006
-Hotaru.
+00:34:49,353 --> 00:34:51,663
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Everyone went all out with their disguises, didn't they?</font>
 
 168
-00:28:38,168 --> 00:28:41,017
-N�co ti o sob� pov�m.
+00:34:51,663 --> 00:34:53,743
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">It was like a mimicking competition!</font>
 
 169
-00:28:42,968 --> 00:28:44,700
-J� nejsem d�mon.
+00:34:53,743 --> 00:34:55,163
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Is it like this every year?</font>
 
 170
-00:28:45,593 --> 00:28:49,099
-Ale tak� ji� nejsem �lov�k.
+00:34:55,483 --> 00:34:59,833
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Yeah, every time summer comes around...</font>
 
 171
-00:28:50,338 --> 00:28:52,299
-Kdysi jsem nejsp� �lov�k byl,
+00:35:08,683 --> 00:35:14,083
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">When I'm away from you, even though I can't be around crowds, I want to go see you.</font>
 
 172
-00:28:52,379 --> 00:28:55,866
-ale jako d�t� jsem byl
-zanech�n v tomto lese.
+00:36:01,173 --> 00:36:02,563
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Wait!</font>
 
 173
-00:29:03,209 --> 00:29:06,519
-jako bych se sna�il p�ivolat rodi�e,
-kte�� m� opustili.
+00:36:03,773 --> 00:36:04,383
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Watch out!</font>
 
 174
-00:29:08,998 --> 00:29:11,826
-Pr� jsem plakal velmi dlouho.
+00:36:21,933 --> 00:36:22,783
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Gin?</font>
 
 175
-00:29:17,988 --> 00:29:21,884
-M�l jsem tehdy um��t,
+00:36:25,823 --> 00:36:27,243
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Was that boy a human?</font>
 
 176
-00:29:22,607 --> 00:29:26,928
-ale horsk� b�h na m� seslat kouzlo,
-kter� mi umo�nilo d�le ��t.
+00:37:24,133 --> 00:37:25,443
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">I love you, too.</font>
 
 177
-00:29:28,129 --> 00:29:32,392
-Tak, �e se nikdy nezm�n�m.
+00:37:47,893 --> 00:37:49,103
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>Deep green.</i></font>
 
 178
-00:29:52,454 --> 00:29:54,825
-Jestli se dotkne skute�n�ho lidsk�ho t�la,
+00:37:50,393 --> 00:37:52,173
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>This is the mountain god's forest.</i></font>
 
 179
-00:29:54,905 --> 00:29:56,886
-kouzlo se zlom� a t�lo zmiz�.
+00:37:56,633 --> 00:37:59,323
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1">Hotaru. Thank you.</font>
 
 180
-00:29:56,966 --> 00:29:58,864
-Je to tak k�ehk� v�c.
+00:38:14,063 --> 00:38:16,383
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>I probably won't be able to</i></font>
 
 181
-00:29:58,944 --> 00:30:02,423
-- Jak dlouho dok�e�...
-- N�co, co zmiz�, kdy� se toho dotkne�...
+00:38:18,733 --> 00:38:21,313
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>look forward to summer for a long time.</i></font>
 
 182
-00:30:02,503 --> 00:30:04,461
-P�esn� jako sn�h, �e?
+00:38:22,173 --> 00:38:23,473
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>My chest will hurt.</i></font>
 
 183
-00:30:05,239 --> 00:30:10,973
-Myslela jsem na tebe b�hem zimy, Gine.
+00:38:24,233 --> 00:38:25,723
+<font face="LTFinnegan Medium" size="75" color="#f9f4f1"><i>My tears will be overflowing.</i></font>
 
 184
-00:30:12,316 --> 00:30:15,779
-Dokonce i b�hem podzimu a jara.
+00:39:49,943 --> 00:39:55,873
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}<font face="Goodfish">The cicadas laugh out in song</font></font>
 
 185
-00:30:22,095 --> 00:30:23,739
-Nezapome�.
+00:39:56,773 --> 00:40:02,513
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}to the red evening sunset</font>
 
 186
-00:30:26,090 --> 00:30:30,101
-�as n�s m��e n�kdy odd�lit.
+00:40:02,933 --> 00:40:09,753
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The way back home is long</font>
 
 187
-00:30:31,142 --> 00:30:33,793
-Ale i p�esto...
+00:41:01,973 --> 00:41:08,243
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}I thought the tale would never end</font>
 
 188
-00:30:42,941 --> 00:30:44,563
-Slavnost d�mon�?
+00:41:09,263 --> 00:41:15,043
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}but I realize now that something comes after</font>
 
 189
-00:30:44,848 --> 00:30:47,857
-Ne, letn� slavnost po��dan� d�mony.
+00:41:15,763 --> 00:41:22,593
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The crows too took flight</font>
 
 190
-00:30:49,612 --> 00:30:51,949
-Ta nuance je naprosto odli�n�!
+00:41:34,223 --> 00:41:46,763
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The summer flies by</font>
 
 191
-00:30:52,169 --> 00:30:53,547
-Nuance?
+00:42:49,143 --> 00:42:55,583
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}I'll never ever forget</font>
 
 192
-00:30:58,920 --> 00:31:02,248
-M��e� se dnes ve�er vypl�it z domu?
+00:42:56,863 --> 00:43:03,063
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}those golden summer days</font>
 
 193
-00:31:02,708 --> 00:31:06,138
-Cht�l jsem s tebou j�t ji� drahnou chv�li.
+00:43:03,733 --> 00:43:10,613
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}That summer which brought joy</font>
 
 194
-00:31:07,797 --> 00:31:08,977
-Chci j�t!
+00:43:11,903 --> 00:43:18,193
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}to my boring everyday life</font>
 
 195
-00:31:09,057 --> 00:31:11,971
-Po�k�m na tebe v osm na obvykl�m m�st�.
+00:43:23,883 --> 00:43:36,983
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}And look! Summer is here again</font>
 
 196
-00:31:19,953 --> 00:31:21,082
-Bu� v klidu.
+00:43:37,803 --> 00:43:50,093
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}to help me keep my promise of that day</font>
 
 197
-00:31:21,355 --> 00:31:23,804
-Navenek se neli�� od lidsk� slavnosti.
+00:43:51,313 --> 00:44:04,073
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}The summer is still in bloom</font>
 
 198
-00:31:24,034 --> 00:31:26,982
-V�dy� m� p�ece napodobovat lidsk� slavnosti.
-
-199
-00:31:27,398 --> 00:31:29,930
-A j� t� ochr�n�m.
-
-200
-00:31:30,937 --> 00:31:35,076
-Kdy� �ekne� n�co takov�ho,
-tak by ti nejrad�ji sko�ila kolem krku.
-
-201
-00:31:55,599 --> 00:31:57,484
-Po�kejte! Po�kejte!
-
-202
-00:32:17,891 --> 00:32:21,420
-Je to pravda.
-Vypad� to jako lidsk� slavnost.
-
-203
-00:32:22,110 --> 00:32:25,976
-- To jsou v�ichni p�evle�en� za lidi?
-- P�esn� tak. P�sobiv�, �e?
-
-204
-00:32:26,056 --> 00:32:29,901
-Sly�el jsem, �e se sem
-n�kdy nev�domky zam�chaj� i lid�.
-
-205
-00:32:31,145 --> 00:32:32,897
-Jako Iwa a jej� kamar�dky...
-
-206
-00:32:32,977 --> 00:32:34,010
-Kdo?
-
-207
-00:32:48,645 --> 00:32:50,771
-Jako bychom byli na rande!
-
-208
-00:32:51,373 --> 00:32:53,390
-Tohle JE rande.
-
-209
-00:32:55,951 --> 00:32:57,211
-M��eme?
-
-210
-00:32:57,419 --> 00:32:58,636
-Jo.
-
-211
-00:33:25,474 --> 00:33:26,646
-Tady m�te.
-
-212
-00:33:46,404 --> 00:33:47,993
-Podivn�.
-
-213
-00:34:00,184 --> 00:34:01,852
-Man�el�!
-
-214
-00:34:01,932 --> 00:34:03,281
-Hej vy!
-
-215
-00:34:15,205 --> 00:34:18,077
-Hele! Ten kluk m� ocas!
-
-216
-00:34:35,046 --> 00:34:37,336
-Omlouv�m se!
-
-217
-00:34:54,090 --> 00:34:56,808
-P�ni, to byla ale podivnost!
-
-218
-00:35:03,120 --> 00:35:07,452
-Jo, v�dy kdy� nadejde l�to...
-
-219
-00:35:09,737 --> 00:35:15,183
-Hotaru, nedok�u ji� �ekat,
-ne� p�ijde l�to.
-
-220
-00:36:05,241 --> 00:36:08,408
-<i>Tohle je ur�it� na�e posledn�...</i>
-
-221
-00:36:08,791 --> 00:36:10,435
-Po�kej!
-
-222
-00:36:11,411 --> 00:36:12,945
-D�vej pozor!
-
-223
-00:36:14,648 --> 00:36:15,836
-Jsi v po��dku?
-
-224
-00:36:29,614 --> 00:36:30,781
-Gine?
-
-225
-00:36:33,466 --> 00:36:35,395
-Ten kluk byl �lov�k?
-
-226
-00:36:41,564 --> 00:36:42,759
-Gine!
-
-227
-00:36:43,252 --> 00:36:44,973
-Poj� ke mn�, Hotaru!
-
-228
-00:36:45,365 --> 00:36:47,622
-Kone�n� se t� m��u dotknout.
-
-229
-00:37:28,137 --> 00:37:29,474
-Miluju t�.
-
-230
-00:37:29,890 --> 00:37:30,877
-Jo.
-
-231
-00:38:07,322 --> 00:38:10,927
-Cht�li jsme b�t s Ginem napo��d, ale...
-
-232
-00:38:11,289 --> 00:38:16,384
-Gin se cht�l dotknout �lov�ka.
-
-233
-00:38:16,853 --> 00:38:20,765
-Kone�n� ho n�jak� �lov�k objal.
-
-234
-00:38:26,348 --> 00:38:29,472
-<i>...nedok�u t�it na l�to</i>
-
-235
-00:38:29,811 --> 00:38:31,680
-<i>Bude m� bolet na prsou.</i>
-
-236
-00:38:31,873 --> 00:38:34,120
-<i>Slzy nep�estanou t�ct.</i>
-
-237
-00:38:34,624 --> 00:38:43,512
-<i>Ale tohle teplo v m�ch ruk�ch a vzpom�nky
-na tato l�ta budou d�l ��t v m�m srdci.</i>
-
-238
-00:38:50,779 --> 00:38:52,829
-<i>Tak poj�me.</i>
-
-239
-00:38:57,456 --> 00:38:58,859
-<i>Vyraz�me.</i>
-
-240
-00:39:31,428 --> 00:39:41,426
-Titulky p�elo�il Ne4um.
-
-241
-00:39:41,426 --> 00:39:45,007
-www.Titulky.com
+00:44:05,083 --> 00:44:17,903
+<font face="Goodfish" size="80" color="#f9f4f1">{\an3}making you look more beautiful than ever</font>
 
